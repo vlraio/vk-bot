@@ -1,0 +1,590 @@
+{
+    "Monday": [
+        [
+            {
+                "subject": "",
+                "sub_type": "",
+                "professor": "",
+                "room": "",
+                "link": ""
+            },
+            {
+                "subject": "10,12,14,16 н. ОО программирование",
+                "sub_type": "пр",
+                "professor": "Грач Е.П.",
+                "room": "Д",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "1,3,5,13 н. Правоведение",
+                "sub_type": "лк",
+                "professor": "Милкина Е.В.",
+                "room": "Д",
+                "link": ""
+            },
+            {
+                "subject": "10,12,14,16 н. ОО программирование",
+                "sub_type": "пр",
+                "professor": "Грач Е.П.",
+                "room": "Д",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "11 н. Правоведение",
+                "sub_type": "пр",
+                "professor": "Суркова В.А.",
+                "room": "Д",
+                "link": ""
+            },
+            {
+                "subject": "кр 8 н. Физика",
+                "sub_type": "лаб",
+                "professor": "",
+                "room": "Д",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "кр. 3,5,13 н. ОО программирование",
+                "sub_type": "лк",
+                "professor": "Грач Е.П.",
+                "room": "Д",
+                "link": ""
+            },
+            {
+                "subject": "4,12,16 н. Правоведение",
+                "sub_type": "пр",
+                "professor": "Суркова В.А.",
+                "room": "Д",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "кр. 3,5,13 н. ОО программирование",
+                "sub_type": "пр",
+                "professor": "Грач Е.П.",
+                "room": "Д",
+                "link": ""
+            },
+            {
+                "subject": "кр 8 н. ОО программирование",
+                "sub_type": "пр",
+                "professor": "Грач Е.П.",
+                "room": "Д",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "кр. 3,5,13 н. ОО программирование",
+                "sub_type": "пр",
+                "professor": "Грач Е.П.",
+                "room": "Д",
+                "link": ""
+            },
+            {
+                "subject": "кр 8 н. ОО программирование",
+                "sub_type": "пр",
+                "professor": "Грач Е.П.",
+                "room": "Д",
+                "link": ""
+            }
+        ]
+    ],
+    "Tuesday": [
+        [
+            {
+                "subject": "Ознакомительная практика",
+                "sub_type": "с/р",
+                "professor": "",
+                "room": "Д",
+                "link": ""
+            },
+            {
+                "subject": "Ознакомительная практика",
+                "sub_type": "с/р",
+                "professor": "",
+                "room": "Д",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "Ознакомительная практика",
+                "sub_type": "с/р",
+                "professor": "",
+                "room": "Д",
+                "link": ""
+            },
+            {
+                "subject": "Ознакомительная практика",
+                "sub_type": "с/р",
+                "professor": "",
+                "room": "Д",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "Ознакомительная практика",
+                "sub_type": "с/р",
+                "professor": "",
+                "room": "Д",
+                "link": ""
+            },
+            {
+                "subject": " 10 н. Физика",
+                "sub_type": "лк",
+                "professor": "Ильин Н.А.",
+                "room": "Д",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "кр 13 н. Ин. язык (фр.)",
+                "sub_type": "пр",
+                "professor": "Ослякова И.В.",
+                "room": "Д",
+                "link": ""
+            },
+            {
+                "subject": "кр 8 н. Ин. язык (фр.)",
+                "sub_type": "пр",
+                "professor": "Ослякова И.В.",
+                "room": "Д",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "11 н. Структуры и АОД",
+                "sub_type": "пр",
+                "professor": "Сыромятников В.П.",
+                "room": "Д",
+                "link": ""
+            },
+            {
+                "subject": "10 н. Ин. язык (фр.)",
+                "sub_type": "пр",
+                "professor": "Ослякова И.В.",
+                "room": "Д",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "",
+                "sub_type": "",
+                "professor": "",
+                "room": "",
+                "link": ""
+            },
+            {
+                "subject": "",
+                "sub_type": "",
+                "professor": "",
+                "room": "",
+                "link": ""
+            }
+        ]
+    ],
+    "Wednesday": [
+        [
+            {
+                "subject": "Физика",
+                "sub_type": "пр",
+                "professor": "Жданова Е.В.",
+                "room": "Д",
+                "link": "https://us04web.zoom.us/j/2740789877?pwd=Mk9nU1RXWjFhc2F6OFh1OFlOOW96UT09  конференция: 755-0894-6989"
+            },
+            {
+                "subject": "кр 8 н. Физика",
+                "sub_type": "пр",
+                "professor": "Жданова Е.В.",
+                "room": "Д",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "Лин. алгебра и АГ",
+                "sub_type": "лк",
+                "professor": "Таланова Л.И.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/21586908/4632314"
+            },
+            {
+                "subject": "кр 8 н. Лин. алгебра и АГ",
+                "sub_type": "лк",
+                "professor": "Таланова Л.И.",
+                "room": "Д",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "Мат. логика и ТА",
+                "sub_type": "пр",
+                "professor": "Дзержинский Р.И.",
+                "room": "Д",
+                "link": ""
+            },
+            {
+                "subject": "",
+                "sub_type": "",
+                "professor": "",
+                "room": "",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "Лин. алгебра и АГ",
+                "sub_type": "пр",
+                "professor": "Таланова Л.И.",
+                "room": "Д",
+                "link": "https://us04web.zoom.us/j/5511956108?pwd=dVg1N1Nac1RwT0k3cEd2aTR4RlFTUT09"
+            },
+            {
+                "subject": "кр 8 н. Лин. алгебра и АГ",
+                "sub_type": "пр",
+                "professor": "Таланова Л.И.",
+                "room": "Д",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "Мат. анализ",
+                "sub_type": "пр",
+                "professor": "Немировская-Дутчак О.Э.",
+                "room": "Д",
+                "link": "https://discordapp.com/invite/X6f3T2M"
+            },
+            {
+                "subject": "кр 8 н. Мат. анализ",
+                "sub_type": "пр",
+                "professor": "Немировская-Дутчак О.Э.",
+                "room": "Д",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "9,11,15 н. ОО программирование",
+                "sub_type": "лк",
+                "professor": "Грач Е.П.",
+                "room": "Д",
+                "link": ""
+            },
+            {
+                "subject": "10 н. Лин. алгебра и АГ\n12 н. Физика\n14 н. Лин. алгебра и АГ\n16 н. Мат. анализ",
+                "sub_type": "лк\nпр\nпр\nпр",
+                "professor": "Таланова Л.И.\nЖданова Е.В.\nТаланова Л.И.\nНемировская-Дутчак О.Э.",
+                "room": "Д",
+                "link": ""
+            }
+        ]
+    ],
+    "Thursday": [
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "",
+                "professor": "",
+                "room": "Д",
+                "link": ""
+            },
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "",
+                "professor": "",
+                "room": "Д",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "Ознакомительная практика",
+                "sub_type": "пр",
+                "professor": "Радолин Д.А.",
+                "room": "Д",
+                "link": "https://yadi.sk/d/8BzV3z3Sg22B3Q"
+            },
+            {
+                "subject": "Ознакомительная практика",
+                "sub_type": "пр",
+                "professor": "Радолин Д.А.",
+                "room": "Д",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "Структуры и АОД",
+                "sub_type": "лк",
+                "professor": "Сыромятников В.П.",
+                "room": "Д",
+                "link": "https://yadi.sk/d/Lo8eAoUrtVY94Q"
+            },
+            {
+                "subject": "кр 8 н. Физика",
+                "sub_type": "лк",
+                "professor": "Ильин Н.А.",
+                "room": "Д",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "Структуры и АОД",
+                "sub_type": "пр",
+                "professor": "Сыромятников В.П.",
+                "room": "Д",
+                "link": "https://yadi.sk/d/IUvlht49Ut3miA"
+            },
+            {
+                "subject": "кр 8 н. Структуры и АОД",
+                "sub_type": "пр",
+                "professor": "Сыромятников В.П.",
+                "room": "Д",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "Ин. язык",
+                "sub_type": "пр",
+                "professor": "Дятлова Р.И.\nНовоселова Е.В.",
+                "room": "Д",
+                "link": "https://us04web.zoom.us/j/73063799314?pwd=bWhSWTFOd0RCMmJqcUdMWTUyeEV0UT09 (Дятлова)"
+            },
+            {
+                "subject": "кр 8 н. Ин. язык",
+                "sub_type": "пр",
+                "professor": "Дятлова Р.И.\nНовоселова Е.В.",
+                "room": "Д",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "11 н. Физика",
+                "sub_type": "лаб",
+                "professor": "",
+                "room": "Д",
+                "link": ""
+            },
+            {
+                "subject": "10 н. Ин. язык",
+                "sub_type": "пр",
+                "professor": "Дятлова Р.И.\nНовоселова Е.В.",
+                "room": "Д",
+                "link": ""
+            }
+        ]
+    ],
+    "Friday": [
+        [
+            {
+                "subject": " Мат. логика и ТА",
+                "sub_type": "лк",
+                "professor": "Дзержинский Р.И.",
+                "room": "Д",
+                "link": ""
+            },
+            {
+                "subject": "кр. 8,12 н.   Мат. логика и ТА",
+                "sub_type": "лк",
+                "professor": "Дзержинский Р.И.",
+                "room": "Д",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "Мат. анализ",
+                "sub_type": "лк",
+                "professor": "Белова И.М.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/21586908/4633136"
+            },
+            {
+                "subject": "кр. 8,12 н. Мат. анализ",
+                "sub_type": "лк",
+                "professor": "Белова И.М.",
+                "room": "Д",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "",
+                "professor": "",
+                "room": "Д",
+                "link": ""
+            },
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "",
+                "professor": "",
+                "room": "Д",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "",
+                "sub_type": "",
+                "professor": "",
+                "room": "",
+                "link": ""
+            },
+            {
+                "subject": "",
+                "sub_type": "",
+                "professor": "",
+                "room": "",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "11 н. Ин. язык (фр)",
+                "sub_type": "пр",
+                "professor": "Ослякова И,В.",
+                "room": "Д",
+                "link": ""
+            },
+            {
+                "subject": "",
+                "sub_type": "",
+                "professor": "",
+                "room": "",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "",
+                "sub_type": "",
+                "professor": "",
+                "room": "",
+                "link": ""
+            },
+            {
+                "subject": "",
+                "sub_type": "",
+                "professor": "",
+                "room": "",
+                "link": ""
+            }
+        ]
+    ],
+    "Saturday": [
+        [
+            {
+                "subject": "7,9 н.   Мат. логика и ТА",
+                "sub_type": "лк",
+                "professor": "Дзержинский Р.И.",
+                "room": "Д",
+                "link": ""
+            },
+            {
+                "subject": "10,14 н. Мат. анализ",
+                "sub_type": "лк",
+                "professor": "Белова И.М.",
+                "room": "Д",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "",
+                "sub_type": "",
+                "professor": "",
+                "room": "",
+                "link": ""
+            },
+            {
+                "subject": "",
+                "sub_type": "",
+                "professor": "",
+                "room": "",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "",
+                "sub_type": "",
+                "professor": "",
+                "room": "",
+                "link": ""
+            },
+            {
+                "subject": "",
+                "sub_type": "",
+                "professor": "",
+                "room": "",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "",
+                "sub_type": "",
+                "professor": "",
+                "room": "",
+                "link": ""
+            },
+            {
+                "subject": "",
+                "sub_type": "",
+                "professor": "",
+                "room": "",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "",
+                "sub_type": "",
+                "professor": "",
+                "room": "",
+                "link": ""
+            },
+            {
+                "subject": "",
+                "sub_type": "",
+                "professor": "",
+                "room": "",
+                "link": ""
+            }
+        ],
+        [
+            {
+                "subject": "",
+                "sub_type": "",
+                "professor": "",
+                "room": "",
+                "link": ""
+            },
+            {
+                "subject": "",
+                "sub_type": "",
+                "professor": "",
+                "room": "",
+                "link": ""
+            }
+        ]
+    ]
+}

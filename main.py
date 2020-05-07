@@ -1,5 +1,5 @@
-import vk_api
+from server import Server
+from config import vk_api_token as token
 
-a = 2
-a += 3
-print(a)
+server = Server(token, "Server 1")
+server.start()
