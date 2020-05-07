@@ -1,13 +1,9 @@
 import json
+
 from config import json_data_path as json_path
 
 
-def get_schedule_by_name(name):
-    with open("schedule/{0}{1}.json".format(json_path, name), "r", encoding="UTF-8") as f:
-        text = json.load(f)
-        return text
-
-
+#  Модель для общения с данными расписания
 class Group:
     def __init__(self, name):
         self.__name = name
@@ -20,8 +16,8 @@ class Group:
         f.close()
         self.__schedule = save
 
-    def get_name(self):
-        return self.__name
-
-    def get_schedule(self):
-        return self.__schedule
+    @staticmethod
+    def get_schedule_by_name(name):
+        with open("{0}{1}.json".format(json_path, name), "r", encoding="UTF-8") as f:
+            text = json.load(f)
+            return text
