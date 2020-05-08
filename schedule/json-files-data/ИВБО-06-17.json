@@ -1,0 +1,590 @@
+{
+    "Monday": [
+        [
+            {
+                "subject": "Техн. обеспечение АС",
+                "sub_type": "лк",
+                "professor": "Бескин А.Л.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Техн. обеспечение АС",
+                "sub_type": "лк",
+                "professor": "Бескин А.Л.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Операционные системы",
+                "sub_type": "лаб",
+                "professor": "Норица В.М.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Операционные системы",
+                "sub_type": "пр",
+                "professor": "Норица В.М.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Техн. обеспечение АС",
+                "sub_type": "пр",
+                "professor": "Бескин А.Л.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Техн. обеспечение АС",
+                "sub_type": "пр",
+                "professor": "Бескин А.Л.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Экон. предприятия",
+                "sub_type": "пр",
+                "professor": "Белоусова И.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Операционные системы",
+                "sub_type": "лк",
+                "professor": "Карпов Д.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "лк",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Гражд. оборона 2,4,6,14 н. Экономика предприятия",
+                "sub_type": "лк\nлк",
+                "professor": "Михайлов В.М.\nБелоусова И.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Операционные системы",
+                "sub_type": "лк",
+                "professor": "Карпов Д.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Техн. обеспечение АС",
+                "sub_type": "пр",
+                "professor": "Бескин А.Л.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Tuesday": [
+        [
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Системы тестирования ПО",
+                "sub_type": "лк",
+                "professor": "Басок Б.М.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Системы тестирования ПО",
+                "sub_type": "лк",
+                "professor": "Басок Б.М.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Системы тестирования ПО",
+                "sub_type": "пр",
+                "professor": "Басок Б.М.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Системы тестирования ПО",
+                "sub_type": "лаб",
+                "professor": "Басок Б.М.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Техн. обеспечение АС",
+                "sub_type": "лк",
+                "professor": "Бескин А.Л.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Операционные системы",
+                "sub_type": "пр+\nлаб",
+                "professor": "Норица В.М.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "лк",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Wednesday": [
+        [
+            {
+                "subject": "Инф. безопасность в ИАС",
+                "sub_type": "лк",
+                "professor": "Уманский С.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Инф. безопасность в ИАС",
+                "sub_type": "лк",
+                "professor": "Уманский С.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Инф. безопасность в ИАС (1 п/г)",
+                "sub_type": "лаб",
+                "professor": "Уманский С.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Инф. безопасность в ИАС (2 п/г)",
+                "sub_type": "лаб",
+                "professor": "Дрягина А.Д.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Инф. безопасность в ИАС 3,7,11,15 н. Оценка качества ИАС",
+                "sub_type": "пр\nпр",
+                "professor": "Уманский С.А.\nКайтукова М.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Оценка качества ИАС",
+                "sub_type": "лк",
+                "professor": "Кайтукова М.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Инф. безопасность в ИАС 13 н. Инф. безопасность в ИАС (2 п/г)",
+                "sub_type": "лк\nлаб",
+                "professor": "Уманский С.А.\nДрягина А.Д.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Оценка качества ИАС",
+                "sub_type": "лк",
+                "professor": "Кайтукова М.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Thursday": [
+        [
+            {
+                "subject": "Практика по ППУ и ОПД",
+                "sub_type": "пр",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Практика по ППУ и ОПД",
+                "sub_type": "пр",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Практика по ППУ и ОПД",
+                "sub_type": "пр",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Практика по ППУ и ОПД",
+                "sub_type": "пр",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Практика по ППУ и ОПД",
+                "sub_type": "пр",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Практика по ППУ и ОПД",
+                "sub_type": "пр",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Практика по ППУ и ОПД",
+                "sub_type": "пр",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Friday": [
+        [
+            {
+                "subject": "Военная подготовка",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Saturday": [
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "ОО анализ и проектир. ПО",
+                "sub_type": "лк",
+                "professor": "Головин С.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "ОО анализ и проектир. ПО 15 н. Системы тестирования ПО",
+                "sub_type": "пр\nлаб",
+                "professor": "Аввакумов Г.Е.\nБасок Б.М.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "ОО анализ и проектир. ПО",
+                "sub_type": "пр",
+                "professor": "Аввакумов Г.Е.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "ОО анализ и проектир. ПО",
+                "sub_type": "пр",
+                "professor": "Аввакумов Г.Е.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "ОО анализ и проектир. ПО",
+                "sub_type": "пр",
+                "professor": "Аввакумов Г.Е.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы сетевых технологий 9 н. ОО анализ и проектир. ПО",
+                "sub_type": "пр\nлаб",
+                "professor": "Круглов А.М.\nАввакумов Г.Е.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "ОО анализ и проектир. ПО",
+                "sub_type": "лаб",
+                "professor": "Аввакумов Г.Е.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Системы тестирования ПО 9 н. Системы тестирования ПО",
+                "sub_type": "лк\nпр",
+                "professor": "Басок Б.М.\nБасок Б.М.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "ОО анализ и проектир. ПО",
+                "sub_type": "лк",
+                "professor": "Головин С.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ]
+}

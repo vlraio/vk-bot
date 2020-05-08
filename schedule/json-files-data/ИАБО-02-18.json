@@ -1,0 +1,590 @@
+{
+    "Monday": [
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Промышленная информатика",
+                "sub_type": "пр",
+                "professor": "Харьковский С.Е.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Промышленная информатика",
+                "sub_type": "пр",
+                "professor": "Харьковский С.Е.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Промышленная информатика",
+                "sub_type": "лк",
+                "professor": "Харьковский С.Е.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Промышленная информатика",
+                "sub_type": "лк",
+                "professor": "Харьковский С.Е.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Промышленная информатика",
+                "sub_type": "пр",
+                "professor": "Харьковский С.Е.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Tuesday": [
+        [
+            {
+                "subject": "Теория вероятностей и МС",
+                "sub_type": "лк",
+                "professor": "Берков Н.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Выч. Системы 12 н. Экономика",
+                "sub_type": "лк\nпр",
+                "professor": "Зорина Н.В.\nЧерноризова Н.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Выч. системы",
+                "sub_type": "лк",
+                "professor": "Зорина Н.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Выч. системы",
+                "sub_type": "лк",
+                "professor": "Зорина Н.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Выч. системы",
+                "sub_type": "пр",
+                "professor": "Зорина Н.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Выч. системы",
+                "sub_type": "лаб",
+                "professor": "Зорина Н.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Экономика",
+                "sub_type": "пр",
+                "professor": "Черноризова Н.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Экономика",
+                "sub_type": "лк",
+                "professor": "Черноризова Н.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория вероятностей и МС",
+                "sub_type": "пр",
+                "professor": "Берков Н.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Теория вероятностей и МС",
+                "sub_type": "пр",
+                "professor": "Берков Н.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Выч. системы",
+                "sub_type": "лаб",
+                "professor": "Зорина Н.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Экономика",
+                "sub_type": "лк",
+                "professor": "Черноризова Н.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Wednesday": [
+        [
+            {
+                "subject": "Ин. язык",
+                "sub_type": "пр",
+                "professor": "Прокопчук А.Р.",
+                "room": "Д",
+                "link": "https://us02web.zoom.us/j/2478596442?pwd=WWZwbU9nNlFHYm52cjl0SDNQM01OZz09"
+            },
+            {
+                "subject": "Ин. язык",
+                "sub_type": "пр",
+                "professor": "Прокопчук А.Р.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Э/М и мехатр. системы ",
+                "sub_type": "лаб",
+                "professor": "Макаров М.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Э/М и мехатр. системы ",
+                "sub_type": "пр",
+                "professor": "Макаров М.А.",
+                "room": "Д",
+                "link": "https://drive.google.com/open?id=1Bjfvd5gMAmqvFxqT2EMtX2JT9cYS9soi"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Э/М и мехатр. системы",
+                "sub_type": "лк",
+                "professor": "Кушнир А.П.",
+                "room": "Д",
+                "link": "https://drive.google.com/open?id=1pSZ6lCXCvgr6YPtIVj3hOqhHT-z_oBYO"
+            },
+            {
+                "subject": "Э/М и мехатр. системы",
+                "sub_type": "лк",
+                "professor": "Кушнир А.П.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Ин. язык",
+                "sub_type": "пр",
+                "professor": "Прокопчук А.Р.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Э/М и мехатр. системы",
+                "sub_type": "лк",
+                "professor": "Кушнир А.П.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Thursday": [
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория конечных автоматов",
+                "sub_type": "лк",
+                "professor": "Руднева Л.Ю.",
+                "room": "Д",
+                "link": "https://drive.google.com/open?id=1Dg4BgqnfBX58Jujl9NASAfEGJGeg1ifB"
+            },
+            {
+                "subject": "Теория конечных автоматов",
+                "sub_type": "лк",
+                "professor": "Руднева Л.Ю.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория конечных автоматов",
+                "sub_type": "пр",
+                "professor": "Руднева Л.Ю.",
+                "room": "Д",
+                "link": "https://drive.google.com/open?id=12G5uzzYFsQO1Bb1Z-Nyy-mNnoWhDoHXI"
+            },
+            {
+                "subject": "Теория конечных автоматов",
+                "sub_type": "пр",
+                "professor": "Руднева Л.Ю.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Электроника СА",
+                "sub_type": "лк",
+                "professor": "Мешков В.В.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/20860024/4570496"
+            },
+            {
+                "subject": "Электроника СА",
+                "sub_type": "лаб",
+                "professor": "Мешков В.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Электроника СА",
+                "sub_type": "пр",
+                "professor": "Мешков В.В.",
+                "room": "Д",
+                "link": "https://drive.google.com/open?id=1l4C_guPX6FKh1v0hTXxehGWEG9wJW1hU"
+            },
+            {
+                "subject": "Электроника СА",
+                "sub_type": "пр",
+                "professor": "Мешков В.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория конечных автоматов 13 н. Электроника СА",
+                "sub_type": "пр\nлаб",
+                "professor": "Руднева Л.Ю.\nМешков В.В.",
+                "room": "Д",
+                "link": "https://drive.google.com/open?id=1k1Btc1Hn-2oJn8M3fsf9XgNKL0RrjZuh"
+            },
+            {
+                "subject": "Теория конечных автоматов 14 н. Электроника СА",
+                "sub_type": "лк\nпр",
+                "professor": "Руднева Л.Ю.\nМешков В.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Friday": [
+        [
+            {
+                "subject": "Технология ППИ",
+                "sub_type": "лк",
+                "professor": "Пименов А.В.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/20860024/4570680"
+            },
+            {
+                "subject": "Технология ППИ",
+                "sub_type": "лк",
+                "professor": "Пименов А.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Технология ППИ",
+                "sub_type": "лк",
+                "professor": "Пименов А.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Технология ППИ",
+                "sub_type": "пр",
+                "professor": "Пименов А.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Технология ППИ",
+                "sub_type": "пр",
+                "professor": "Пименов А.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Saturday": [
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория вероятностей и МС",
+                "sub_type": "пр",
+                "professor": "Берков Н.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория вероятностей и МС",
+                "sub_type": "лк",
+                "professor": "Берков Н.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ]
+}

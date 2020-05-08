@@ -1,0 +1,590 @@
+{
+    "Monday": [
+        [
+            {
+                "subject": " Системное ПО 11 н. Тестирование и отладка ПО (2 п/г) 15 н.  Системное ПО (1 п/г)",
+                "sub_type": "пр\nлаб\nлаб",
+                "professor": "Алпатов А.Н.\nАлпатов А.Н.\nАлпатов А.Н.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Основы НТТ",
+                "sub_type": "лк",
+                "professor": "Чехарин Е.Е.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": " Системное ПО 11 н. Тестирование и отладка ПО (2 п/г) 15н.  Тестирование и отладка ПО",
+                "sub_type": "пр\nлаб\nпр",
+                "professor": "Алпатов А.Н.\nАлпатов А.Н.\nАлпатов А.Н.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Проектирование ИС (1 п/г) 12 н. Основы НТТ",
+                "sub_type": "лаб\nпр",
+                "professor": "Лобанов А.А.\nЧехарин Е.Е.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Интеллектуальные ИС",
+                "sub_type": "пр",
+                "professor": "Рачков А.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Интеллектуальные ИС (1 п/г) 4,12,16 н. Интеллектуальные ИС (2 п/г)",
+                "sub_type": "лаб",
+                "professor": "Рачков А.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Комп. графика",
+                "sub_type": "пр",
+                "professor": "Синицын А.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Комп. графика",
+                "sub_type": "пр",
+                "professor": "Синицын А.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Круглов А.М.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Круглов А.М.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Tuesday": [
+        [
+            {
+                "subject": "Интеллектуальные ИС (2 п/г)",
+                "sub_type": "лаб",
+                "professor": "Рачков А.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Интеллектуальные ИС",
+                "sub_type": "пр",
+                "professor": "Рачков А.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Круглов А.М.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Комп. графика",
+                "sub_type": "пр",
+                "professor": "Синицын А.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы НТТ",
+                "sub_type": "пр",
+                "professor": "Чехарин Е.Е.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы НТТ",
+                "sub_type": "лк",
+                "professor": "Чехарин Е.Е.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Комп. графика",
+                "sub_type": "лк",
+                "professor": "Болбаков Р.Г.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Тестирование о отладка ПО",
+                "sub_type": "лк",
+                "professor": "Алпатов А.Н.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Системное ПО",
+                "sub_type": "лк",
+                "professor": "Алпатов А.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Экон. предприятия",
+                "sub_type": "пр",
+                "professor": "Белоусова И.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Wednesday": [
+        [
+            {
+                "subject": "Военная подготовка",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Проектирование ИС",
+                "sub_type": "пр",
+                "professor": "Лобанов А.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Комп. графика",
+                "sub_type": "лк",
+                "professor": "Болбаков Р.Г.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Thursday": [
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Проектирование ИС (1 п/г)",
+                "sub_type": "лаб",
+                "professor": "Лобанов А.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Проектирование ИС (2 п/г)",
+                "sub_type": "лаб",
+                "professor": "Лобанов А.А.",
+                "room": "Д",
+                "link": "https://cloud.mirea.ru/index.php/s/ttNF5TZt2DfPY8K"
+            },
+            {
+                "subject": "Проектирование ИС",
+                "sub_type": "пр",
+                "professor": "Лобанов А.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Проектирование ИС",
+                "sub_type": "лк",
+                "professor": "Лобанов А.А.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/20860024/4587200"
+            },
+            {
+                "subject": "Проектирование ИС",
+                "sub_type": "лк",
+                "professor": "Лобанов А.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория систем и СА",
+                "sub_type": "лк",
+                "professor": "Сорокин А.Б.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/20860024/4587352"
+            },
+            {
+                "subject": "Теория систем и СА",
+                "sub_type": "лк",
+                "professor": "Сорокин А.Б.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Гражд. оборона 2,4,6,10 н. Экон. предприятия",
+                "sub_type": "лк\nлк",
+                "professor": "Михайлов В.М.\nБелоусова И.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Friday": [
+        [
+            {
+                "subject": "Основы сетевых технологий 11 н. Системное ПО",
+                "sub_type": "лк\nлк",
+                "professor": "Тулинов С.В.\nАлпатов А.Н.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Интеллектуальные ИС",
+                "sub_type": "лк",
+                "professor": "Райков А.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы сетевых технологий 11 н. Тестирование о отладка ПО",
+                "sub_type": "лк\nлк",
+                "professor": "Тулинов С.В.\nАлпатов А.Н.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Интеллектуальные ИС",
+                "sub_type": "лк",
+                "professor": "Райков А.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория систем и СА",
+                "sub_type": "пр",
+                "professor": "Баранова И.А.",
+                "room": "Д",
+                "link": "https://drive.google.com/open?id=1XFc-O6KuwKx0U1FCYaUXU1k3Mc-gkjzN"
+            },
+            {
+                "subject": "Теория систем и СА",
+                "sub_type": "лаб",
+                "professor": "Баранова И.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Комп. графика (1 п/г)",
+                "sub_type": "лаб",
+                "professor": "Синицын А.В.",
+                "room": "Д",
+                "link": "https://cloud.mirea.ru/index.php/s/QAB5Dew3nDwH34k"
+            },
+            {
+                "subject": "Комп. графика (2 п/г)",
+                "sub_type": "лаб",
+                "professor": "Синицын А.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория систем и СА",
+                "sub_type": "лаб",
+                "professor": "Баранова И.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Комп. графика (2 п/г)",
+                "sub_type": "лаб",
+                "professor": "Синицын А.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Saturday": [
+        [
+            {
+                "subject": "Теория систем и СА",
+                "sub_type": "лк",
+                "professor": "Сорокин А.Б.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Проектирование ИС",
+                "sub_type": "лк",
+                "professor": "Лобанов А.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": " Системное ПО",
+                "sub_type": "пр",
+                "professor": "Алпатов А.Н.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": " Системное ПО",
+                "sub_type": "пр",
+                "professor": "Алпатов А.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": " Тестирование и отладка ПО",
+                "sub_type": "пр",
+                "professor": "Алпатов А.Н.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Тестирование и отладка ПО (1 п/г) 4,16 н. Тестирование и отладка ПО (2 п/г)",
+                "sub_type": "лаб",
+                "professor": "Алпатов А.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": " Системное ПО (1 п/г)",
+                "sub_type": "лаб",
+                "professor": "Алпатов А.Н.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": " Системное ПО (2 п/г)",
+                "sub_type": "лаб",
+                "professor": "Алпатов А.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": " Системное ПО",
+                "sub_type": "пр",
+                "professor": "Алпатов А.Н.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": " Системное ПО (2 п/г)",
+                "sub_type": "лаб",
+                "professor": "Алпатов А.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ]
+}

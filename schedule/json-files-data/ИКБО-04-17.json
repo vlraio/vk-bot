@@ -1,0 +1,590 @@
+{
+    "Monday": [
+        [
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Кряженков К.Г.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Системное ПО 14 н. Системное ПО",
+                "sub_type": "пр\nлаб",
+                "professor": "Воронков С.О.\nРадолин Д.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Кряженков К.Г.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Кряженков К.Г.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Системное ПО",
+                "sub_type": "лк",
+                "professor": "Воронков С.О.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Экон. предприятия",
+                "sub_type": "пр",
+                "professor": "Белоусова И.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Tuesday": [
+        [
+            {
+                "subject": "Военная подготовка",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Wednesday": [
+        [
+            {
+                "subject": "Теория принятия решений",
+                "sub_type": "лк",
+                "professor": "Сорокин А.Б.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/20860024/4587880"
+            },
+            {
+                "subject": "Системное ПО",
+                "sub_type": "лк",
+                "professor": "Воронков С.О.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Интеллектуальные системы",
+                "sub_type": "лк",
+                "professor": "Сорокин А.Б.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/20860024/4587922"
+            },
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Проектирование ИС",
+                "sub_type": "лаб",
+                "professor": "Лобанов А.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Проектирование ИС",
+                "sub_type": "лаб",
+                "professor": "Лобанов А.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Thursday": [
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Проектирование ИС",
+                "sub_type": "лк",
+                "professor": "Лобанов А.А.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/20860024/4587200"
+            },
+            {
+                "subject": "Проектирование ИС",
+                "sub_type": "лк",
+                "professor": "Лобанов А.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Проектирование ИС 13,15 н. Гражд. оборона 1,3,5,7 н. Экон. предприятия",
+                "sub_type": "пр\nлк\nлк",
+                "professor": "Лобанов А.А.\nМихайлов В.М.\nБелоусова И.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Проектирование ИС",
+                "sub_type": "пр",
+                "professor": "Лобанов А.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория систем и СА",
+                "sub_type": "лк",
+                "professor": "Сорокин А.Б.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/20860024/4587808"
+            },
+            {
+                "subject": "Теория систем и СА",
+                "sub_type": "лк",
+                "professor": "Сорокин А.Б.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Friday": [
+        [
+            {
+                "subject": "Интеллектуальные системы",
+                "sub_type": "пр",
+                "professor": "Зикеева Е.А.",
+                "room": "Д",
+                "link": "https://drive.google.com/open?id=1PWxwNbwVXMt9Q1sID9qkqeZ39zvdI4aU"
+            },
+            {
+                "subject": "Теория систем и СА 2,16 н. Интеллектуальные системы",
+                "sub_type": "лаб\nлаб",
+                "professor": "Баранова И.А.\nПономарев А.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория систем и СА",
+                "sub_type": "пр",
+                "professor": "Баранова И.А.",
+                "room": "Д",
+                "link": "https://drive.google.com/open?id=1XFc-O6KuwKx0U1FCYaUXU1k3Mc-gkjzN"
+            },
+            {
+                "subject": "Теория систем и СА",
+                "sub_type": "лаб",
+                "professor": "Баранова И.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Интеллектуальные системы",
+                "sub_type": "лаб",
+                "professor": "Пономарев А.Н.",
+                "room": "Д",
+                "link": "https://drive.google.com/open?id=1hLgL8sFMbyi4f8f0gJix-7DNABfZah9M"
+            },
+            {
+                "subject": "Интеллектуальные системы",
+                "sub_type": "лаб",
+                "professor": "Пономарев А.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория принятия решений",
+                "sub_type": "пр",
+                "professor": "Железняк Л.М.",
+                "room": "Д",
+                "link": "https://drive.google.com/open?id=1SLn0Osoo58B5Ug324rjf4dkuRkZgBJ1N"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "лк",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Saturday": [
+        [
+            {
+                "subject": "Теория систем и СА",
+                "sub_type": "лк",
+                "professor": "Сорокин А.Б.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Проектирование ИС",
+                "sub_type": "лк",
+                "professor": "Лобанов А.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Имитац. моделирование",
+                "sub_type": "лк",
+                "professor": "Тихвинский В.И.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Имитац. моделирование 4,10,14,16 н.  Имитац. моделирование",
+                "sub_type": "лк\nпр+лаб",
+                "professor": "Тихвинский В.И.\nТихвинский В.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Системное ПО",
+                "sub_type": "пр",
+                "professor": "Воронков С.О.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Имитац. моделирование",
+                "sub_type": "пр",
+                "professor": "Тихвинский В.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Системное ПО",
+                "sub_type": "лаб",
+                "professor": "Радолин Д.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Имитац. моделирование",
+                "sub_type": "лаб",
+                "professor": "Тихвинский В.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ]
+}

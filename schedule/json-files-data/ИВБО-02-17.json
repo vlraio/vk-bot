@@ -1,0 +1,590 @@
+{
+    "Monday": [
+        [
+            {
+                "subject": "Системное ПО 11 н. Моделирование 9 н. Интерфейсы и ПУ 15 н. Системное ПО",
+                "sub_type": "лк\nпр\nлаб\nлаб",
+                "professor": "Воронков С.О.\nБорисенко Н.В.\nРасулов М.М.\nРадолин Д.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Системное ПО 12 н. Системное ПО 16 н. Системное ПО",
+                "sub_type": "пр\nлаб\nлк",
+                "professor": "Воронков С.О.\nРадолин Д.А.\nВоронков С.О.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": " Интерфейсы и ПУ",
+                "sub_type": "пр",
+                "professor": "Расулов М.М.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Интерфейсы и ПУ",
+                "sub_type": "лаб",
+                "professor": "Расулов М.М.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Круглов А.М.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Круглов А.М.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Экон. предприятия",
+                "sub_type": "пр",
+                "professor": "Белоусова И.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "лк",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Гражд. оборона 2,4,6,14 н. Экономика предприятия",
+                "sub_type": "лк\nлк",
+                "professor": "Михайлов В.М.\nБелоусова И.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Tuesday": [
+        [
+            {
+                "subject": "Моделирование",
+                "sub_type": "пр",
+                "professor": "Борисенко Н.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Системное ПО",
+                "sub_type": "пр",
+                "professor": "Воронков С.О.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Микропроц. системы",
+                "sub_type": "лк",
+                "professor": "Бражникова  Е.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Микропроц. системы",
+                "sub_type": "лк",
+                "professor": "Бражникова  Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": " Интерфейсы и ПУ",
+                "sub_type": "пр",
+                "professor": "Расулов М.М.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Моделирование",
+                "sub_type": "лаб",
+                "professor": "Борисенко Н.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Моделирование",
+                "sub_type": "пр",
+                "professor": "Борисенко Н.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "лк",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Wednesday": [
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Интерфейсы и ПУ",
+                "sub_type": "лк",
+                "professor": "Коваленко С.М.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Экон. предприятия",
+                "sub_type": "пр",
+                "professor": "Белоусова И.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Интерфейсы и ПУ",
+                "sub_type": "лк",
+                "professor": "Коваленко С.М.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/20860024/4586678"
+            },
+            {
+                "subject": "Интерфейсы и ПУ",
+                "sub_type": "лк",
+                "professor": "Коваленко С.М.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Микропроц. системы",
+                "sub_type": "лаб",
+                "professor": "Бражникова  Е.В.",
+                "room": "Д",
+                "link": "https://drive.google.com/open?id=1lir4t1-wcRddE7rmqUC98ybqFebo6cNU"
+            },
+            {
+                "subject": "Микропроц. системы",
+                "sub_type": "лаб",
+                "professor": "Бражникова  Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Микропроц. системы",
+                "sub_type": "пр",
+                "professor": "Бражникова  Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Thursday": [
+        [
+            {
+                "subject": "Моделирование",
+                "sub_type": "лк",
+                "professor": "Борисенко Н.В.",
+                "room": "Д",
+                "link": "https://drive.google.com/open?id=1YMFRTI5T9o_zDw__wTcayNmLygz3vAuS"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Моделирование",
+                "sub_type": "лаб",
+                "professor": "Борисенко Н.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Сети ЭВМ и Т/К",
+                "sub_type": "лк",
+                "professor": "Супруненко Д.В.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/20860024/4586760"
+            },
+            {
+                "subject": "Сети ЭВМ и Т/К",
+                "sub_type": "лк",
+                "professor": "Супруненко Д.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Сети ЭВМ и Т/К",
+                "sub_type": "лаб",
+                "professor": "Супруненко Д.В.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/20860024/4586760"
+            },
+            {
+                "subject": "Сети ЭВМ и Т/К",
+                "sub_type": "пр",
+                "professor": "Супруненко Д.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Сети ЭВМ и Т/К",
+                "sub_type": "пр",
+                "professor": "Супруненко Д.В.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/20860024/4586760"
+            },
+            {
+                "subject": "Сети ЭВМ и Т/К",
+                "sub_type": "лк",
+                "professor": "Супруненко Д.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Friday": [
+        [
+            {
+                "subject": "Военная подготовка",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Saturday": [
+        [
+            {
+                "subject": "Системное ПО",
+                "sub_type": "лк",
+                "professor": "Воронков С.О.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Системное ПО",
+                "sub_type": "лк",
+                "professor": "Воронков С.О.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Круглов А.М.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Системное ПО",
+                "sub_type": "лаб",
+                "professor": "Радолин Д.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Круглов А.М.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Микропроц. системы",
+                "sub_type": "лк",
+                "professor": "Бражникова  Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Микропроц. системы",
+                "sub_type": "лаб",
+                "professor": "Бражникова  Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Микропроц. системы",
+                "sub_type": "пр",
+                "professor": "Бражникова  Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,590 @@
+{
+    "Monday": [
+        [
+            {
+                "subject": "СиП инженерия",
+                "sub_type": "лк",
+                "professor": "Баранюк В.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "СиП инженерия",
+                "sub_type": "лк",
+                "professor": "Баранюк В.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Архитектура ВМиС",
+                "sub_type": "лк",
+                "professor": "Жемчужникова Т.Н.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Архитектура ВМиС",
+                "sub_type": "лк",
+                "professor": "Жемчужникова Т.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Архитектура ВМиС",
+                "sub_type": "лаб",
+                "professor": "Железняк Л.М.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Архитектура ВМиС",
+                "sub_type": "пр",
+                "professor": "Жемчужникова Т.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Системы ОиХД",
+                "sub_type": "пр",
+                "professor": "Глазов Н.Е.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Системы ОиХД",
+                "sub_type": "пр",
+                "professor": "Глазов Н.Е.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Архитектура ВМиС",
+                "sub_type": "лк",
+                "professor": "Жемчужникова Т.Н.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "СиП инженерия",
+                "sub_type": "лк",
+                "professor": "Баранюк В.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Tuesday": [
+        [
+            {
+                "subject": "Электроника",
+                "sub_type": "лк",
+                "professor": "Ларшина Э.Л.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Теория вероятностей и МС",
+                "sub_type": "лк",
+                "professor": "Берков Н.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Ин. язык (нем.)",
+                "sub_type": "пр",
+                "professor": "Гриценко С.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Ин. язык (нем.)",
+                "sub_type": "пр",
+                "professor": "Гриценко С.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория вероятностей и МС",
+                "sub_type": "пр",
+                "professor": "Берков Н.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Теория вероятностей и МС",
+                "sub_type": "пр",
+                "professor": "Берков Н.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Экономика",
+                "sub_type": "лк",
+                "professor": "Столяренко Л.Т.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Архитектура ВМиС",
+                "sub_type": "пр",
+                "professor": "Жемчужникова Т.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Экономика",
+                "sub_type": "лк",
+                "professor": "Столяренко Л.Т.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Теория вероятностей и МС",
+                "sub_type": "лк",
+                "professor": "Берков Н.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Wednesday": [
+        [
+            {
+                "subject": "Электроника",
+                "sub_type": "пр",
+                "professor": "Ларшина Э.Л.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Электроника",
+                "sub_type": "пр",
+                "professor": "Ларшина Э.Л.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Электроника",
+                "sub_type": "лаб",
+                "professor": "Петренко Ю.Н.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Электроника",
+                "sub_type": "лаб",
+                "professor": "Петренко Ю.Н.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Экономика",
+                "sub_type": "пр",
+                "professor": "Соколов А.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Электроника",
+                "sub_type": "лк",
+                "professor": "Ларшина Э.Л.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Системы ОиХД",
+                "sub_type": "лк",
+                "professor": "Богомольная Г.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Thursday": [
+        [
+            {
+                "subject": "Выч. математика",
+                "sub_type": "лк",
+                "professor": "Дзержинский Р.И.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Выч. математика",
+                "sub_type": "лк",
+                "professor": "Дзержинский Р.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Ин. язык",
+                "sub_type": "пр",
+                "professor": "Прокопчук А.Р.\nОслякова И.В.",
+                "room": "Д",
+                "link": "https://us02web.zoom.us/j/88661023685 (Ослякова), https://us02web.zoom.us/j/2478596442?pwd=WWZwbU9nNlFHYm52cjl0SDNQM01OZz09 (Прокопчук)"
+            },
+            {
+                "subject": "Ин. язык",
+                "sub_type": "пр",
+                "professor": "Прокопчук А.Р.\nОслякова И.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "СиП инженерия",
+                "sub_type": "пр",
+                "professor": "Гусев К.В.",
+                "room": "Д",
+                "link": "https://online-edu.mirea.ru/course/view.php?id=969"
+            },
+            {
+                "subject": "Ин. язык (нем.)",
+                "sub_type": "пр",
+                "professor": "Гриценко С.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Системы ОиХД",
+                "sub_type": "лк",
+                "professor": "Богомольная Г.В.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/20860024/4571158"
+            },
+            {
+                "subject": "Системы ОиХД",
+                "sub_type": "лк",
+                "professor": "Богомольная Г.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Выч. математика",
+                "sub_type": "пр",
+                "professor": "Ледовская Е.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Экономика",
+                "sub_type": "пр",
+                "professor": "Соколов А.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Ин. язык",
+                "sub_type": "пр",
+                "professor": "Прокопчук А.Р.\nОслякова И.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Выч. математика",
+                "sub_type": "лк",
+                "professor": "Дзержинский Р.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Friday": [
+        [
+            {
+                "subject": "Системотехника",
+                "sub_type": "лк",
+                "professor": "Митрушкин Е.И.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Системотехника (1 п/г)",
+                "sub_type": "лаб",
+                "professor": "Митрушкин Е.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Системотехника",
+                "sub_type": "пр",
+                "professor": "Митрушкин Е.И.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Системотехника (1 п/г)",
+                "sub_type": "лаб",
+                "professor": "Митрушкин Е.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Системотехника (2 п/г)",
+                "sub_type": "лаб",
+                "professor": "Митрушкин Е.И.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Системотехника (1 п/г)",
+                "sub_type": "лаб",
+                "professor": "Митрушкин Е.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Системотехника (2 п/г)",
+                "sub_type": "лаб",
+                "professor": "Митрушкин Е.И.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Системотехника (1 п/г)",
+                "sub_type": "лаб",
+                "professor": "Митрушкин Е.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "……………",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "……………",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Saturday": [
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Электроника",
+                "sub_type": "лаб",
+                "professor": "Петренко Ю.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория вероятностей и МС",
+                "sub_type": "пр",
+                "professor": "Берков Н.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Электроника",
+                "sub_type": "лаб",
+                "professor": "Петренко Ю.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ]
+}

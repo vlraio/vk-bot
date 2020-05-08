@@ -1,0 +1,590 @@
+{
+    "Monday": [
+        [
+            {
+                "subject": "Технол. оборудование АП",
+                "sub_type": "лк",
+                "professor": "Копытова Е.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Технол. оборудование АП",
+                "sub_type": "лк",
+                "professor": "Копытова Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Технол. оборудование АП",
+                "sub_type": "пр",
+                "professor": "Копытова Е.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Экон. предприятия 4,12,16 н. Технол. оборудование АП",
+                "sub_type": "пр\nлаб",
+                "professor": "Белоусова И.В.\nКопытова Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": " Теория АУ",
+                "sub_type": "лк",
+                "professor": "Мешков В.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Теория АУ",
+                "sub_type": "лк",
+                "professor": "Мешков В.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория АУ",
+                "sub_type": "пр",
+                "professor": "Мешков В.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Теория АУ 4,12,16 н. Теория АУ",
+                "sub_type": "лаб\nлк+пр",
+                "professor": "Мешков В.В.\nМешков В.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "лк",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Гражд. оборона 2,4,6,14 н. Экономика предприятия",
+                "sub_type": "лк\nлк",
+                "professor": "Михайлов В.М.\nБелоусова И.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": " Теория АУ",
+                "sub_type": "лк",
+                "professor": "Мешков В.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Теория АУ",
+                "sub_type": "пр",
+                "professor": "Мешков В.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Tuesday": [
+        [
+            {
+                "subject": "Пневм. и гидравлические МС 9 н. Пневм. и гидравлические МС",
+                "sub_type": "лк\nлаб",
+                "professor": "Макаров В.А.\nМакаров В.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Пневм. и гидравлические МС",
+                "sub_type": "пр+\nлаб",
+                "professor": "Макаров В.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Пневм. и гидравлические МС",
+                "sub_type": "лк",
+                "professor": "Макаров В.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Пневм. и гидравлические МС",
+                "sub_type": "лк",
+                "professor": "Макаров В.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Техн. средства АиУ",
+                "sub_type": "лаб",
+                "professor": "Макаров М.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Техн. средства АиУ",
+                "sub_type": "пр",
+                "professor": "Макаров М.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Техн. средства АиУ",
+                "sub_type": "лк",
+                "professor": "Курнасов Е.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Техн. средства АиУ",
+                "sub_type": "лк",
+                "professor": "Курнасов Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "лк",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Техн. средства АиУ 14,16 н. Техн. средства АиУ",
+                "sub_type": "лк\nпр+лаб",
+                "professor": "Курнасов Е.В.\nМакаров М.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Wednesday": [
+        [
+            {
+                "subject": "Технологии АП",
+                "sub_type": "лк",
+                "professor": "Панайоти В.А.",
+                "room": "Д",
+                "link": "https://drive.google.com/open?id=1QxLEk58eUTo0lnjBbsKmsqxrPFyuJFRr"
+            },
+            {
+                "subject": "Технологии АП",
+                "sub_type": "лк",
+                "professor": "Панайоти В.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Круглов А.М.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Круглов А.М.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Технологии АП 7-15 н. Технологии АП",
+                "sub_type": "пр+\nлаб",
+                "professor": "Асадова Ю.С.\nПетухов А.М.",
+                "room": "Д",
+                "link": "https://drive.google.com/open?id=1IZlYETJJ7d3qGJ7OHSIOHxBLsqsHii1S"
+            },
+            {
+                "subject": "Технологии АП",
+                "sub_type": "лк",
+                "professor": "Панайоти В.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Практика по ППУиОПД",
+                "sub_type": "с/р",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Практика по ППУиОПД",
+                "sub_type": "с/р",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Практика по ППУиОПД",
+                "sub_type": "с/р",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Практика по ППУиОПД",
+                "sub_type": "с/р",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Практика по ППУиОПД",
+                "sub_type": "с/р",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Круглов А.М.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Thursday": [
+        [
+            {
+                "subject": "Практика по ППУиОПД",
+                "sub_type": "пр",
+                "professor": "180/3033",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Практика по ППУиОПД",
+                "sub_type": "с/р",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Практика по ППУиОПД",
+                "sub_type": "с/р",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Практика по ППУиОПД",
+                "sub_type": "с/р",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Практика по ППУиОПД",
+                "sub_type": "с/р",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Практика по ППУиОПД",
+                "sub_type": "с/р",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Технол. оборудование АП",
+                "sub_type": "лаб",
+                "professor": "Копытова Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Friday": [
+        [
+            {
+                "subject": "Военная подготовка",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Saturday": [
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Техн. средства АиУ",
+                "sub_type": "лк",
+                "professor": "Курнасов Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Технол. оборудование АП",
+                "sub_type": "лк",
+                "professor": "Копытова Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Технол. оборудование АП",
+                "sub_type": "пр",
+                "professor": "Копытова Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Технол. оборудование АП",
+                "sub_type": "лк",
+                "professor": "Копытова Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ]
+}

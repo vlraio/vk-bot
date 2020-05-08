@@ -1,0 +1,590 @@
+{
+    "Monday": [
+        [
+            {
+                "subject": "Ин. язык (нем.)",
+                "sub_type": "пр",
+                "professor": "Новоселова Е.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": " Ин. язык (нем.)",
+                "sub_type": "пр",
+                "professor": "Новоселова Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Ин. язык (фр.)",
+                "sub_type": "пр",
+                "professor": "Ослякова И.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": " Ин. язык (фр.)",
+                "sub_type": "пр",
+                "professor": "Ослякова И.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Разработка ПП",
+                "sub_type": "пр",
+                "professor": "Мирзоян Д.И.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": " Разработка ПП",
+                "sub_type": "пр",
+                "professor": "Мирзоян Д.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": " Архитектура ВМиС",
+                "sub_type": "лк",
+                "professor": "Мусихин А.Г.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": " Теория вероятностей и МС",
+                "sub_type": "лк",
+                "professor": "Чекалкин Н.С.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": " СиП инженерия",
+                "sub_type": "лк",
+                "professor": "Миронов А.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": " СиП инженерия 16 н.  Теория вероятностей и МС",
+                "sub_type": "лк\nлк",
+                "professor": "Миронов А.Н.\nЧекалкин Н.С.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Tuesday": [
+        [
+            {
+                "subject": "СиП инженерия 11,15 н. СиП инженерия",
+                "sub_type": "лаб",
+                "professor": "Баранюк В.В.\nАншина М.Л.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "СиП инженерия 12 н. Экономика 14 н.  Стр. и алгоритмы ОД",
+                "sub_type": "пр\nпр\nпр",
+                "professor": "Гусев К.В.\nСоколов А.А.\nСоветов П.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "СиП инженерия",
+                "sub_type": "пр",
+                "professor": "Гусев К.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "  Архитектура ВМиС",
+                "sub_type": "пр",
+                "professor": "Мусихин А.Г.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Экономика",
+                "sub_type": "лк",
+                "professor": "Клишо С.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": " Архитектура ВМиС",
+                "sub_type": "лаб",
+                "professor": "Пономарев А.Г.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Экономика",
+                "sub_type": "пр",
+                "professor": "Соколов А.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": " Стр. и алгоритмы ОД",
+                "sub_type": "пр",
+                "professor": "Советов П.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Архитектура ВМиС",
+                "sub_type": "лк",
+                "professor": "Мусихин А.Г.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": " Архитектура ВМиС",
+                "sub_type": "пр",
+                "professor": "Мусихин А.Г.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Wednesday": [
+        [
+            {
+                "subject": "……………",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "……………",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Ин. язык (нем.)",
+                "sub_type": "пр",
+                "professor": "Новоселова Е.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": " Проектирование и РБД",
+                "sub_type": "пр",
+                "professor": "Куликов А.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": " Проектирование и РБД",
+                "sub_type": "пр",
+                "professor": "Куликов А.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Разработка ПП",
+                "sub_type": "лк",
+                "professor": "Мирзоян Д.И.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/20860024/4572046"
+            },
+            {
+                "subject": " Проектирование и РБД",
+                "sub_type": "лк",
+                "professor": "Матчин В.Т.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Разработка ПП",
+                "sub_type": "пр",
+                "professor": "Мирзоян Д.И.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Проектирование и РБД",
+                "sub_type": "лаб",
+                "professor": "Куликов А.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Thursday": [
+        [
+            {
+                "subject": "Стр. и алгоритмы ОД (1 п/г)",
+                "sub_type": "лаб",
+                "professor": "Габриелян Г.А.",
+                "room": "Д",
+                "link": "https://yadi.sk/d/-hSTlmkt4hb7NQ"
+            },
+            {
+                "subject": " Стр. и алгоритмы ОД (2 п/г)",
+                "sub_type": "лаб",
+                "professor": "Габриелян Г.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "ИС и технологии",
+                "sub_type": "лк",
+                "professor": "Башлыкова А.А.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/20860024/4572298"
+            },
+            {
+                "subject": " Стр. и алгоритмы ОД (2 п/г) 12н.  Теория вероятностей и МС",
+                "sub_type": "лаб\nпр",
+                "professor": "Габриелян Г.А.\nПереходцева Э.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория вероятностей и МС",
+                "sub_type": "пр",
+                "professor": "Переходцева Э.В.",
+                "room": "Д",
+                "link": "https://us02web.zoom.us/j/9147100979?pwd=a3hmQUtSTk5kdHJaY3hWY1JDSWRuUT09"
+            },
+            {
+                "subject": " Теория вероятностей и МС",
+                "sub_type": "пр",
+                "professor": "Переходцева Э.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "ИС и технологии",
+                "sub_type": "пр",
+                "professor": "Башлыкова А.А.",
+                "room": "Д",
+                "link": "https://yadi.sk/d/uhZD9qTvJMJxaA"
+            },
+            {
+                "subject": "ИС и технологии",
+                "sub_type": "лаб",
+                "professor": "Башлыкова А.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Разработка ПП",
+                "sub_type": "лаб",
+                "professor": "Мирзоян Д.И.",
+                "room": "Д",
+                "link": "https://yadi.sk/d/5oBB9xPUwOKi5g"
+            },
+            {
+                "subject": " Разработка ПП",
+                "sub_type": "лаб",
+                "professor": "Мирзоян Д.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Экономика",
+                "sub_type": "лк",
+                "professor": "Клишо С.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": " Проектирование и РБД",
+                "sub_type": "лк",
+                "professor": "Матчин В.Т.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Friday": [
+        [
+            {
+                "subject": "Ин. язык",
+                "sub_type": "пр",
+                "professor": "Иоффе Н.Е.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Разработка ПП",
+                "sub_type": "пр",
+                "professor": "Мирзоян Д.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": " Разработка ПП",
+                "sub_type": "лаб",
+                "professor": "Мирзоян Д.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Ин. язык 11,15 н. Ин. язык (фр.)",
+                "sub_type": "пр\nпр",
+                "professor": "Иоффе Н.Е.\nОслякова И.В.",
+                "room": "Д",
+                "link": "https://us04web.zoom.us/j/3032786039 (Ослякова)"
+            },
+            {
+                "subject": "Ин. язык",
+                "sub_type": "пр",
+                "professor": "Иоффе Н.Е.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Saturday": [
+        [
+            {
+                "subject": "Стр. и алгоритмы ОД",
+                "sub_type": "лк",
+                "professor": "Андрианова Е.Г.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Стр. и алгоритмы ОД",
+                "sub_type": "лк",
+                "professor": "Андрианова Е.Г.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Ин. язык (фр)",
+                "sub_type": "пр",
+                "professor": "Ослякова И.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,590 @@
+{
+    "Monday": [
+        [
+            {
+                "subject": "Микропроц. системы",
+                "sub_type": "лк",
+                "professor": "Корзинкин В.С.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Микропроц. системы",
+                "sub_type": "лк",
+                "professor": "Корзинкин В.С.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория ИП и систем",
+                "sub_type": "лк",
+                "professor": "Лукьянов Ю.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Теория ИП и систем",
+                "sub_type": "пр",
+                "professor": "Лукьянов Ю.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Микропроц. системы",
+                "sub_type": "лаб",
+                "professor": "Корзинкин В.С.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Микропроц. системы",
+                "sub_type": "лк",
+                "professor": "Корзинкин В.С.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Теория ИП и систем",
+                "sub_type": "лк",
+                "professor": "Лукьянов Ю.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Микропроц. системы",
+                "sub_type": "лаб",
+                "professor": "Корзинкин В.С.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Теория ИП и систем",
+                "sub_type": "пр",
+                "professor": "Лукьянов Ю.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Tuesday": [
+        [
+            {
+                "subject": "Теория оптим. управления",
+                "sub_type": "лк",
+                "professor": "Пронина Е.Н.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Мат. методы в ИТ 14 н. Мат. методы в ИТ 16 н. Теория оптим. управления",
+                "sub_type": "лк\nпр\nпр",
+                "professor": "Кузьмин В.И.\nКузьмин В.И.\nПронина Е.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Мат. методы в ИТ",
+                "sub_type": "лк",
+                "professor": "Кузьмин В.И.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Мат. методы в ИТ",
+                "sub_type": "лк",
+                "professor": "Кузьмин В.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Мат. методы в ИТ",
+                "sub_type": "пр",
+                "professor": "Кузьмин В.И.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Теория оптим. управления",
+                "sub_type": "пр",
+                "professor": "Пронина Е.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Гражд. оборона 1,3,5,7 н. Экономика предприятия",
+                "sub_type": "лк\nлк",
+                "professor": "Михайлов В.М.\nБелоусова И.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Экон. предприятия",
+                "sub_type": "пр",
+                "professor": "Белоусова И.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "лк",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "лк",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Wednesday": [
+        [
+            {
+                "subject": "Практика по ППУ и ОПД",
+                "sub_type": "пр",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Практика по ППУ и ОПД",
+                "sub_type": "пр",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Практика по ППУ и ОПД",
+                "sub_type": "пр",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Практика по ППУ и ОПД",
+                "sub_type": "пр",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Практика по ППУ и ОПД",
+                "sub_type": "пр",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Практика по ППУ и ОПД",
+                "sub_type": "пр",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Практика по ППУ и ОПД",
+                "sub_type": "пр",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Thursday": [
+        [
+            {
+                "subject": "Военная подготовка",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Friday": [
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "OLAP и др. технологии ООиХД",
+                "sub_type": "лк",
+                "professor": "Митина О.А.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/20860024/4586880"
+            },
+            {
+                "subject": "OLAP и др. технологии ООиХД",
+                "sub_type": "лк",
+                "professor": "Митина О.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Круглов А.М.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Круглов А.М.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "OLAP и др. технологии ООиХД",
+                "sub_type": "пр",
+                "professor": "Митина О.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Имитац. моделирование ДС",
+                "sub_type": "лк",
+                "professor": "Ижуткин В.С.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Имитац. моделирование ДС",
+                "sub_type": "пр",
+                "professor": "Ижуткин В.С.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "лк",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "OLAP и др. технологии ООиХД 11,15 н. Имитац. моделирование ДС",
+                "sub_type": "лк\nлк",
+                "professor": "Митина О.А.\nИжуткин В.С.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Круглов А.М.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Saturday": [
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория оптим. управления",
+                "sub_type": "лк",
+                "professor": "Пронина Е.Н.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Теория оптим. управления",
+                "sub_type": "лк",
+                "professor": "Пронина Е.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Исследование операций 11 н. Исследование операций",
+                "sub_type": "лк\nпр",
+                "professor": "Пронина Е.Н.\nПронина Е.Н.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Исследование операций",
+                "sub_type": "лк",
+                "professor": "Пронина Е.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": " Исследование операций",
+                "sub_type": "пр",
+                "professor": "Пронина Е.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Исследование операций",
+                "sub_type": "лк",
+                "professor": "Пронина Е.Н.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": " Исследование операций",
+                "sub_type": "пр",
+                "professor": "Пронина Е.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ]
+}

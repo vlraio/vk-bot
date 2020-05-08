@@ -1,0 +1,590 @@
+{
+    "Monday": [
+        [
+            {
+                "subject": "СиП инженерия",
+                "sub_type": "лк",
+                "professor": "Баранюк В.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "СиП инженерия",
+                "sub_type": "лк",
+                "professor": "Баранюк В.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Архитектура ВМиС",
+                "sub_type": "лк",
+                "professor": "Жемчужникова Т.Н.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Архитектура ВМиС",
+                "sub_type": "лк",
+                "professor": "Жемчужникова Т.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Архитектура ВМиС",
+                "sub_type": "пр",
+                "professor": "Жемчужникова Т.Н.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Архитектура ВМиС",
+                "sub_type": "лаб",
+                "professor": "Железняк Л.М.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Ин. язык",
+                "sub_type": "пр",
+                "professor": "Дидык Н.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Ин. язык",
+                "sub_type": "пр",
+                "professor": "Дидык Н.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Архитектура ВМиС",
+                "sub_type": "лк",
+                "professor": "Жемчужникова Т.Н.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "СиП инженерия",
+                "sub_type": "лк",
+                "professor": "Баранюк В.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Tuesday": [
+        [
+            {
+                "subject": "Микропроц. системы",
+                "sub_type": "лаб",
+                "professor": "Бражникова  Е.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Микропроц. системы",
+                "sub_type": "лаб",
+                "professor": "Бражникова  Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Микропроц. системы",
+                "sub_type": "лк",
+                "professor": "Бражникова  Е.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Микропроц. системы",
+                "sub_type": "лк",
+                "professor": "Бражникова  Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Выч. математика",
+                "sub_type": "пр",
+                "professor": "Ледовская Е.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Архитектура ВМиС",
+                "sub_type": "лаб",
+                "professor": "Железняк Л.М.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Гражд. оборона",
+                "sub_type": "лк",
+                "professor": "Михайлов В.М.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "лк",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "лк",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Wednesday": [
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "СиП инженерия",
+                "sub_type": "пр",
+                "professor": "Гусев К.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Сети ЭВМ и Т/К",
+                "sub_type": "лк",
+                "professor": "Супруненко Д.В.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/20860024/4571052"
+            },
+            {
+                "subject": "Сети ЭВМ и Т/К",
+                "sub_type": "лк",
+                "professor": "Супруненко Д.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Нац. система ИБ",
+                "sub_type": "лк",
+                "professor": "Григорьев В.Р.",
+                "room": "Д",
+                "link": "https://online-edu.mirea.ru/course/view.php?id=664&sesskey=GEGZxdaVa7#section-5"
+            },
+            {
+                "subject": "Архитектура ВМиС 16 н. Системы ОиХД",
+                "sub_type": "пр\nпр",
+                "professor": "Жемчужникова Т.Н.\nБогомольная Г.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Микропроц. системы",
+                "sub_type": "пр",
+                "professor": "Бражникова  Е.В.",
+                "room": "Д",
+                "link": "https://drive.google.com/open?id=1lir4t1-wcRddE7rmqUC98ybqFebo6cNU"
+            },
+            {
+                "subject": "Микропроц. системы",
+                "sub_type": "пр",
+                "professor": "Бражникова  Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Thursday": [
+        [
+            {
+                "subject": "Выч. математика",
+                "sub_type": "лк",
+                "professor": "Дзержинский Р.И.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Выч. математика",
+                "sub_type": "лк",
+                "professor": "Дзержинский Р.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Системы ОиХД",
+                "sub_type": "пр",
+                "professor": "Володина А.М.",
+                "room": "Д",
+                "link": "https://drive.google.com/open?id=1GfBRX-5EijlpomvSNKiztxs3EhNQESpC"
+            },
+            {
+                "subject": "Теория автоматов",
+                "sub_type": "пр",
+                "professor": "Антик М.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Ин. язык (нем.)",
+                "sub_type": "пр",
+                "professor": "Новоселова Е.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Ин. язык (нем.)",
+                "sub_type": "пр",
+                "professor": "Новоселова Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Системы ОиХД",
+                "sub_type": "лк",
+                "professor": "Богомольная Г.В.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/20860024/4571158"
+            },
+            {
+                "subject": "Системы ОиХД",
+                "sub_type": "лк",
+                "professor": "Богомольная Г.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Сети ЭВМ и Т/К",
+                "sub_type": "лаб",
+                "professor": "Супруненко Д.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Сети ЭВМ и Т/К",
+                "sub_type": "пр",
+                "professor": "Супруненко Д.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Сети ЭВМ и Т/К 15 н. Ин. язык (нем.)",
+                "sub_type": "лк+пр\nпр",
+                "professor": "Супруненко Д.В.\nНовоселова Е.В.",
+                "room": "Д",
+                "link": "https://yadi.sk/d/yPaUlgAtiygidQ"
+            },
+            {
+                "subject": "Выч. математика",
+                "sub_type": "лк",
+                "professor": "Дзержинский Р.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Friday": [
+        [
+            {
+                "subject": "Теория автоматов",
+                "sub_type": "лаб",
+                "professor": "Антик М.И.",
+                "room": "Д",
+                "link": "https://yadi.sk/d/O1NM9RCTczt_Rw"
+            },
+            {
+                "subject": "Теория автоматов",
+                "sub_type": "лаб",
+                "professor": "Антик М.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Ин. язык",
+                "sub_type": "пр",
+                "professor": "Дидык Н.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "лк",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "СиП инженерия",
+                "sub_type": "пр",
+                "professor": "Гусев К.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Теория автоматов",
+                "sub_type": "лк",
+                "professor": "Антик М.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Ин. язык",
+                "sub_type": "пр",
+                "professor": "Дидык Н.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Ин. язык",
+                "sub_type": "пр",
+                "professor": "Дидык Н.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Saturday": [
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Теория автоматов",
+                "sub_type": "пр",
+                "professor": "Антик М.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория автоматов",
+                "sub_type": "лаб",
+                "professor": "Антик М.И.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Теория автоматов",
+                "sub_type": "лк",
+                "professor": "Антик М.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Выч. математика",
+                "sub_type": "пр",
+                "professor": "Ледовская Е.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Микропроц. системы",
+                "sub_type": "лк",
+                "professor": "Бражникова  Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Микропроц. системы",
+                "sub_type": "лаб",
+                "professor": "Бражникова  Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Микропроц. системы",
+                "sub_type": "пр",
+                "professor": "Бражникова  Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ]
+}

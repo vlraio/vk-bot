@@ -1,0 +1,590 @@
+{
+    "Monday": [
+        [
+            {
+                "subject": "Теория вероятностей и МС",
+                "sub_type": "пр",
+                "professor": "Дудин В.И.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Теория вероятностей и МС",
+                "sub_type": "пр",
+                "professor": "Дудин В.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Архитектура ВМиС",
+                "sub_type": "лаб",
+                "professor": "Железняк Л.М.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Системы ОиХД",
+                "sub_type": "пр",
+                "professor": "Богомольная Г.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "СиП инженерия",
+                "sub_type": "лк",
+                "professor": "Баранюк В.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "СиП инженерия",
+                "sub_type": "лк",
+                "professor": "Баранюк В.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Системы ОиХД",
+                "sub_type": "лк",
+                "professor": "Богомольная Г.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Системы ОиХД",
+                "sub_type": "лк",
+                "professor": "Богомольная Г.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория вероятностей и МС",
+                "sub_type": "пр",
+                "professor": "Дудин В.И.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Системы ОиХД",
+                "sub_type": "пр",
+                "professor": "Богомольная Г.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "СиП инженерия",
+                "sub_type": "лк",
+                "professor": "Баранюк В.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Tuesday": [
+        [
+            {
+                "subject": "Теория вероятностей и МС",
+                "sub_type": "лк",
+                "professor": "Берков Н.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Системы ОиХД",
+                "sub_type": "лк",
+                "professor": "Богомольная Г.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Выч. математика",
+                "sub_type": "лк",
+                "professor": "Самохин А.Б.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Выч. математика",
+                "sub_type": "лк",
+                "professor": "Самохин А.Б.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Экономика",
+                "sub_type": "пр",
+                "professor": "Черноризова Н.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Выч. математика",
+                "sub_type": "пр",
+                "professor": "Ледовская Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Экономика",
+                "sub_type": "лк",
+                "professor": "Черноризова Н.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Выч. математика",
+                "sub_type": "пр",
+                "professor": "Ледовская Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Экономика",
+                "sub_type": "лк",
+                "professor": "Черноризова Н.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Wednesday": [
+        [
+            {
+                "subject": "Ин. язык (фр.)",
+                "sub_type": "пр",
+                "professor": "Ослякова И.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Ин. язык (фр.)",
+                "sub_type": "пр",
+                "professor": "Ослякова И.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Архитектура ВМиС",
+                "sub_type": "лк",
+                "professor": "Жемчужникова Т.Н.",
+                "room": "Д",
+                "link": "https://drive.google.com/open?id=1WLTNmrNG0PB4VcrqTFIYO4ziVxIZPBYi"
+            },
+            {
+                "subject": "Архитектура ВМиС",
+                "sub_type": "лк",
+                "professor": "Жемчужникова Т.Н.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Ин. язык",
+                "sub_type": "пр",
+                "professor": "Абайдуллина О.С.\nРедькова И.С.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Ин. язык",
+                "sub_type": "пр",
+                "professor": "Абайдуллина О.С.\nРедькова И.С.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Архитектура ВМиС",
+                "sub_type": "пр",
+                "professor": "Жемчужникова Т.Н.",
+                "room": "Д",
+                "link": "https://drive.google.com/open?id=1WLTNmrNG0PB4VcrqTFIYO4ziVxIZPBYi"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "11н. Экономика 13 н. Ин. язык (фр.)",
+                "sub_type": "пр\nпр",
+                "professor": "Черноризова Н.В.\nОслякова И.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Архитектура ВМиС 16 н. Ин. язык",
+                "sub_type": "лк\nпр",
+                "professor": "Жемчужникова Т.Н.\nАбайдуллина О.С., Редькова И.С.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Thursday": [
+        [
+            {
+                "subject": "Электроника САиУ (1 п/г)",
+                "sub_type": "лаб",
+                "professor": "Копытова Е.В.",
+                "room": "Д",
+                "link": "https://drive.google.com/open?id=1R-0mEN1QvQnSHyc9amaW9CAXhLocjLfM"
+            },
+            {
+                "subject": "Электроника САиУ (2 п/г)",
+                "sub_type": "лаб",
+                "professor": "Копытова Е.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Электроника САиУ",
+                "sub_type": "лк",
+                "professor": "Мешков В.В.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/20860024/4570818"
+            },
+            {
+                "subject": "Электроника САиУ",
+                "sub_type": "лк",
+                "professor": "Мешков В.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Электроника САиУ",
+                "sub_type": "пр",
+                "professor": "Копытова Е.В.",
+                "room": "Д",
+                "link": "https://drive.google.com/open?id=121VVuV0ro5nUZzJ92a2DQbh6LK9a7khs"
+            },
+            {
+                "subject": "СиП инженерия",
+                "sub_type": "пр",
+                "professor": "Баранюк В.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Электроника САиУ (2 п/г)",
+                "sub_type": "лаб",
+                "professor": "Копытова Е.В.",
+                "room": "Д",
+                "link": "https://drive.google.com/open?id=1R-0mEN1QvQnSHyc9amaW9CAXhLocjLfM"
+            },
+            {
+                "subject": "14н. СиП инженерия",
+                "sub_type": "пр",
+                "professor": "Баранюк В.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Электроника САиУ",
+                "sub_type": "лк",
+                "professor": "Мешков В.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Friday": [
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория конечных автоматов",
+                "sub_type": "лк",
+                "professor": "Руднева Л.Ю.",
+                "room": "Д",
+                "link": "https://drive.google.com/open?id=1yvbHNRQn6JUOZbiCUQYgQAx1clGVvd-N"
+            },
+            {
+                "subject": "Теория конечных автоматов",
+                "sub_type": "лк",
+                "professor": "Руднева Л.Ю.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория конечных автоматов",
+                "sub_type": "пр",
+                "professor": "Руднева Л.Ю.",
+                "room": "Д",
+                "link": "https://drive.google.com/open?id=1NI9Juuy21lqtUzy4kqnx019nuE86a8WE"
+            },
+            {
+                "subject": "Теория конечных автоматов",
+                "sub_type": "пр",
+                "professor": "Руднева Л.Ю.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Теория конечных автоматов",
+                "sub_type": "пр",
+                "professor": "Руднева Л.Ю.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Теория конечных автоматов",
+                "sub_type": "пр",
+                "professor": "Руднева Л.Ю.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Saturday": [
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория вероятностей и МС",
+                "sub_type": "лк",
+                "professor": "Берков Н.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Теория конечных автоматов",
+                "sub_type": "лк",
+                "professor": "Руднева Л.Ю.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Выч. математика",
+                "sub_type": "лк",
+                "professor": "Самохин А.Б.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Теория конечных автоматов",
+                "sub_type": "лк",
+                "professor": "Руднева Л.Ю.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ]
+}

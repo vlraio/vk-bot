@@ -1,0 +1,590 @@
+{
+    "Monday": [
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория систем и СА",
+                "sub_type": "лк",
+                "professor": "Володина А.М.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Теория систем и СА",
+                "sub_type": "лк",
+                "professor": "Володина А.М.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Инф. безопасность и ЗИ",
+                "sub_type": "пр",
+                "professor": "Мирзоян Д.И.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Инф. безопасность и ЗИ",
+                "sub_type": "пр",
+                "professor": "Мирзоян Д.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Инф. безопасность и ЗИ",
+                "sub_type": "лаб",
+                "professor": "Мирзоян Д.И.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Инф. безопасность и ЗИ",
+                "sub_type": "лаб",
+                "professor": "Мирзоян Д.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Инф. безопасность и ЗИ",
+                "sub_type": "лаб",
+                "professor": "Мирзоян Д.И.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Теория систем и СА",
+                "sub_type": "лк",
+                "professor": "Володина А.М.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Tuesday": [
+        [
+            {
+                "subject": "Военная подготовка",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория систем и СА",
+                "sub_type": "лк",
+                "professor": "Володина А.М.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Теория систем и СА",
+                "sub_type": "лк",
+                "professor": "Володина А.М.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Wednesday": [
+        [
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория систем и СА",
+                "sub_type": "пр",
+                "professor": "Володина А.М.",
+                "room": "Д",
+                "link": "https://yadi.sk/d/BgW9rLioAAp8nw"
+            },
+            {
+                "subject": "Теория систем и СА",
+                "sub_type": "лаб",
+                "professor": "Володина А.М.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Теория систем и СА",
+                "sub_type": "лаб",
+                "professor": "Володина А.М.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": " ИС и технологии",
+                "sub_type": "лк",
+                "professor": "Сорокин Л.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": " ИС и технологии",
+                "sub_type": "пр",
+                "professor": "Сорокин Л.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Thursday": [
+        [
+            {
+                "subject": "Технологии ВИ",
+                "sub_type": "пр",
+                "professor": "Мирзоян Д.И.",
+                "room": "Д",
+                "link": "https://yadi.sk/d/TR28igiphe39pQ"
+            },
+            {
+                "subject": "Технологии ВИ",
+                "sub_type": "пр",
+                "professor": "Мирзоян Д.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Проектирование ИС",
+                "sub_type": "пр",
+                "professor": "Полторак  А.В.",
+                "room": "Д",
+                "link": "https://yadi.sk/d/XMvfu8KLhyxO-w"
+            },
+            {
+                "subject": "Проектирование ИС",
+                "sub_type": "лаб",
+                "professor": "Полторак  А.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Инф. безопасность и ЗИ",
+                "sub_type": "лк",
+                "professor": "Мирзоян Д.И.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/20860024/4587992"
+            },
+            {
+                "subject": "Технологии ВИ",
+                "sub_type": "лк",
+                "professor": "Мирзоян Д.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Технологии ВИ",
+                "sub_type": "лаб",
+                "professor": "Мирзоян Д.И.",
+                "room": "Д",
+                "link": "https://yadi.sk/d/LnXjiDr2DH-chg"
+            },
+            {
+                "subject": "Экон. предприятия 12 н. Проектирование ИС",
+                "sub_type": "пр\nлаб",
+                "professor": "Белоусова И.В.\nПолторак  А.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Гражд. оборона 1,3,5,7 н. Экон. предприятия",
+                "sub_type": "лк\nлк",
+                "professor": "Михайлов В.М.\nБелоусова И.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Инф. безопасность и ЗИ",
+                "sub_type": "пр",
+                "professor": "Мирзоян Д.И.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Friday": [
+        [
+            {
+                "subject": "Технологии ВИ",
+                "sub_type": "лк",
+                "professor": "Мирзоян Д.И.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": " Моделирование систем 15 н. Технологии ВИ",
+                "sub_type": "лаб\nпр",
+                "professor": "Даева С.Г.\nМирзоян Д.И.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "лк",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Проектирование ИС",
+                "sub_type": "лк",
+                "professor": "Полторак  А.В.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/20860024/4587554"
+            },
+            {
+                "subject": "Проектирование ИС",
+                "sub_type": "лк",
+                "professor": "Полторак  А.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Проектирование ИС",
+                "sub_type": "лк",
+                "professor": "Полторак  А.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы сетевых технологий 11 н. Проектирование ИС",
+                "sub_type": "лк\nлк",
+                "professor": "Тулинов С.В.\nПолторак  А.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Saturday": [
+        [
+            {
+                "subject": " Моделирование систем",
+                "sub_type": "лк",
+                "professor": "Даева С.Г.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": " ИС и технологии",
+                "sub_type": "лк",
+                "professor": "Сорокин Л.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": " ИС и технологии",
+                "sub_type": "пр",
+                "professor": "Сорокин Л.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": " ИС и технологии",
+                "sub_type": "пр",
+                "professor": "Сорокин Л.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": " Моделирование систем",
+                "sub_type": "пр",
+                "professor": "Даева С.Г.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": " Моделирование систем",
+                "sub_type": "пр",
+                "professor": "Даева С.Г.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": " Моделирование систем",
+                "sub_type": "лаб",
+                "professor": "Даева С.Г.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "ИС и технологии",
+                "sub_type": "лаб",
+                "professor": "Сорокин Л.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": " Моделирование систем 9 н.  ИС и технологии 11,15 н.  ИС и технологии",
+                "sub_type": "лк\nлк\nпр",
+                "professor": "Даева С.Г.\nСорокин Л.А.\nСорокин Л.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": " Моделирование систем",
+                "sub_type": "пр",
+                "professor": "Даева С.Г.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ]
+}

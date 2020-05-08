@@ -9,8 +9,8 @@ from config import excel_table_path
 class ParseData:
 
     @staticmethod
-    def start():
-        book = xlrd.open_workbook(excel_table_path)
+    def operate(f):
+        book = xlrd.open_workbook("{0}{1}.xlsx".format(excel_table_path, f))
         sheet = book.sheet_by_index(0)
 
         num_columns = sheet.ncols
@@ -20,7 +20,7 @@ class ParseData:
 
         for col_id in range(num_columns):
             group_cell = str(sheet.cell(1, col_id).value)
-            if "-19" in group_cell and "БО" in group_cell:
+            if "БО-" in group_cell:
                 g = Group(group_cell)
                 groups_list.append(g)
                 week = {"Monday": None, "Tuesday": None, "Wednesday": None, "Thursday": None, "Friday": None,
@@ -56,3 +56,8 @@ class ParseData:
                             day[i].append(lesson)
                     week[week_days[les]] = day
                 g.set_schedule(week)
+
+    @staticmethod
+    def start(folders_list):
+        for folder in folders_list:
+            ParseData.operate(folder)

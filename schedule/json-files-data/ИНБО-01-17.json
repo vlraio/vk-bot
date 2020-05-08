@@ -1,0 +1,590 @@
+{
+    "Monday": [
+        [
+            {
+                "subject": "ПО инф. системы 15 н. Комп. графика (2 п/г)",
+                "sub_type": "пр\nлаб",
+                "professor": "Одинцова М.А.\nСиницын А.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Инф. технологии БП (1 п/г)",
+                "sub_type": "лаб",
+                "professor": "Одинцова М.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Экон. предприятия",
+                "sub_type": "пр",
+                "professor": "Белоусова И.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Инф. технологии БП (1 п/г)",
+                "sub_type": "лаб",
+                "professor": "Одинцова М.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Инф. технологии БП (2 п/г)",
+                "sub_type": "лаб",
+                "professor": "Одинцова М.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "ПО инф. системы",
+                "sub_type": "пр",
+                "professor": "Одинцова М.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Инф. технологии БП",
+                "sub_type": "лк",
+                "professor": "Одинцова М.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "ПО инф. системы",
+                "sub_type": "лк",
+                "professor": "Одинцова М.А.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Комп. графика",
+                "sub_type": "пр",
+                "professor": "Синицын А.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Комп. графика",
+                "sub_type": "пр",
+                "professor": "Синицын А.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Комп. графика (1 п/г)",
+                "sub_type": "лаб",
+                "professor": "Синицын А.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Комп. графика (2 п/г)",
+                "sub_type": "лаб",
+                "professor": "Синицын А.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Tuesday": [
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Проектирование ИС",
+                "sub_type": "пр",
+                "professor": "Смоленцева Т.Е.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Администрирования БД",
+                "sub_type": "лк",
+                "professor": "Смоленцева Т.Е.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Проектирование ИС",
+                "sub_type": "лк",
+                "professor": "Смоленцева Т.Е.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Проектирование ИС",
+                "sub_type": "лк",
+                "professor": "Смоленцева Т.Е.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Комп. графика",
+                "sub_type": "лк",
+                "professor": "Болбаков Р.Г.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Администрирования БД",
+                "sub_type": "пр",
+                "professor": "Смоленцева Т.Е.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Комп. графика",
+                "sub_type": "лк",
+                "professor": "Болбаков Р.Г.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Wednesday": [
+        [
+            {
+                "subject": "Военная подготовка",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "ПО инф. системы 13 н. Стандартизация ИТ",
+                "sub_type": "лк\nлк",
+                "professor": "Одинцова М.А.\nЛагунова А.Д.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/20860024/4588192"
+            },
+            {
+                "subject": "Администрирования БД 14 н. Проектирование ИС",
+                "sub_type": "лк\nлк",
+                "professor": "Смоленцева Т.Е.\nСмоленцева Т.Е.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Администрирования БД",
+                "sub_type": "пр",
+                "professor": "Смоленцева Т.Е.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Thursday": [
+        [
+            {
+                "subject": "Инф. технологии БП (2 п/г) 15 н. Комп. графика",
+                "sub_type": "лаб\nпр",
+                "professor": "Одинцова М.А.\nСиницын А.В.",
+                "room": "Д",
+                "link": "https://yadi.sk/d/DCa96GqjlguwlA"
+            },
+            {
+                "subject": "Комп. графика 16 н. Проектирование ИС",
+                "sub_type": "пр\nлк",
+                "professor": "Синицын А.В.\nСмоленцева Т.Е.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Инф. технологии БП",
+                "sub_type": "лк",
+                "professor": "Одинцова М.А.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Стандартизация ИТ",
+                "sub_type": "лк",
+                "professor": "Лагунова А.Д.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Стандартизация ИТ",
+                "sub_type": "пр",
+                "professor": "Свищёв А.В.",
+                "room": "Д",
+                "link": "https://yadi.sk/d/gF3C2Bl2OkRThw"
+            },
+            {
+                "subject": "2,6,10,14н. Стандартизация ИТ (1 п/г) 4,12,16 н. Стандартизация ИТ (2 п/г)",
+                "sub_type": "лаб\nлаб",
+                "professor": "Свищёв А.В.\nСвищёв А.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Проектирование ИС (1 п/г)",
+                "sub_type": "лаб",
+                "professor": "Черняускас В.В.",
+                "room": "Д",
+                "link": "https://yadi.sk/d/ABmPGQyMlOfUeQ"
+            },
+            {
+                "subject": "Проектирование ИС (2 п/г)",
+                "sub_type": "лаб",
+                "professor": "Черняускас В.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "пр",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Гражд. оборона 1,3,5,7 н. Экон. предприятия",
+                "sub_type": "лк\nлк",
+                "professor": "Михайлов В.М.\nБелоусова И.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Проектирование ИС 14 н. Основы сетевых технологий",
+                "sub_type": "пр\nпр",
+                "professor": "Смоленцева Т.Е.\nТулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ]
+    ],
+    "Friday": [
+        [
+            {
+                "subject": "Инф. технологии БП",
+                "sub_type": "пр",
+                "professor": "Свищёв А.В.",
+                "room": "Д",
+                "link": "https://yadi.sk/d/Y-mBEnxEccAEsA"
+            },
+            {
+                "subject": "Инф. технологии БП",
+                "sub_type": "пр",
+                "professor": "Свищёв А.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Комп. графика (1 п/г)",
+                "sub_type": "лаб",
+                "professor": "Синицын А.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "лк",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": " Архитектура организаций",
+                "sub_type": "лк",
+                "professor": "Гантц И.С.",
+                "room": "Д",
+                "link": "https://events.webinar.ru/20860024/4588334"
+            },
+            {
+                "subject": "Архитектура организаций",
+                "sub_type": "лк",
+                "professor": "Гантц И.С.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Архитектура организаций",
+                "sub_type": "пр",
+                "professor": "Черняускас В.В.",
+                "room": "Д",
+                "link": "https://yadi.sk/d/H3wQPFQK87q8Tw"
+            },
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Адм. БД (1 п/г) 3,7,11,15 н. Адм. БД (2 п/г)",
+                "sub_type": "лаб\nлаб",
+                "professor": "Иванов М.Е.\nМакаревич А.Д.",
+                "room": "Д",
+                "link": "https://yadi.sk/d/4c-Km_u1g08LBQ"
+            },
+            {
+                "subject": "Инф. технологии БП",
+                "sub_type": "пр",
+                "professor": "Свищёв А.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Основы сетевых технологий",
+                "sub_type": "лк",
+                "professor": "Тулинов С.В.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ],
+    "Saturday": [
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "Стандартизация ИТ (2 п/г)",
+                "sub_type": "лаб",
+                "professor": "Свищёв А.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Архитектура организаций",
+                "sub_type": "лк",
+                "professor": "Гантц И.С.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "Проектирование ИС (2 п/г)",
+                "sub_type": "лаб",
+                "professor": "Черняускас В.В.",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Архитектура организаций",
+                "sub_type": "лк",
+                "professor": "Гантц И.С.",
+                "room": "Д",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            },
+            {
+                "subject": "-",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "-",
+                "link": "-"
+            }
+        ]
+    ]
+}
