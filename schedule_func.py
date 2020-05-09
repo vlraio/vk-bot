@@ -1,7 +1,7 @@
 from datetime import datetime, timedelta, date
 import locale
 
-from config import start_study_date
+from config import start_study_date, week_day_dict
 from schedule.group import Group
 
 
@@ -27,7 +27,7 @@ class Schedule:
 
     #  Цикл по составлению расписания
     @staticmethod
-    def add_schedule(value, week_type):
+    def get_schedule(value, week_type):
         response = ""
         for i in range(len(value)):
             if value[i][week_type]["subject"] == "-":
@@ -42,9 +42,9 @@ class Schedule:
                             value[i][week_type]["link"], i + 1)
         return response
 
-    #  Составление ответа по расписанию
+    #  Составление ответа по расписанию (на сегодня/завтра/неделю)
     @staticmethod
-    def get_response(group, day, week_type, one_day: bool = False):
+    def get_response_schedule(group, day, week_type, one_day: bool = False):
         response = ""
         if one_day:
             for key, value in Group.get_schedule_by_name(group).items():
@@ -53,7 +53,7 @@ class Schedule:
                     locale.setlocale(locale.LC_ALL, "ru_RU.UTF-8")
                     response += "\nРасписание на {} {} {}\n".format(
                         day.strftime("%A").replace("а", "у"), day.day, day.strftime("%B").title())
-                    response += Schedule.add_schedule(value, week_type)
+                    response += Schedule.get_schedule(value, week_type)
                     return response
             return "Выходной день. Отдыхайте! :)"
 
@@ -61,7 +61,7 @@ class Schedule:
             response += "\nРасписание на {} {} {}\n".format(
                 day.strftime("%A").replace("а", "у"), day.day, day.strftime("%B").title())
             day += timedelta(days=1)
-            response += Schedule.add_schedule(value, week_type)
+            response += Schedule.get_schedule(value, week_type)
         return response
 
     #  Подсчет номера недели
@@ -71,3 +71,16 @@ class Schedule:
         start = date(int(d[0]), int(d[1]), int(d[2]))
         days = abs(date.today() - start).days
         return days // 7 + 1
+
+    #  Составление ответа по расписанию (на заданный день)
+    @staticmethod
+    def get_response_for_day_schedule(group, week_day):
+        response = ""
+        for key, value in Group.get_schedule_by_name(group).items():
+            if key == week_day_dict.get(week_day.title()):
+                response += "\nРасписание на {} (н/ч)\n".format(week_day.replace("а", "у"))
+                response += Schedule.get_schedule(value, 0)
+                response += "\nРасписание на {} (ч)\n".format(week_day.replace("а", "у"))
+                response += Schedule.get_schedule(value, 1)
+                return response
+

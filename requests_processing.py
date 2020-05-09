@@ -4,6 +4,7 @@ import re
 
 from requests_list import RequestsList
 from schedule_func import Schedule
+from config import GROUP_REGEX, week_day_dict
 
 
 #  TODO: доделать оставшиеся задания из пунктов
@@ -29,7 +30,7 @@ class Command:
 
         #  Проверка на нового пользователя для ввода номера группы
         if self.group is None:
-            if re.match(r"([а-я]|[А-Я]){4}([-]|[ ])([0-9]){2}([-]|[ ])([0-9]){2}", message) is None:
+            if re.match(GROUP_REGEX, message) is None:
                 return "Вы неправильно ввели номер группы!\nПопробуйте ещё раз."
             self.group = message.upper().replace(" ", "-")
             return "Ваша группа {}.\nНапишите 'Бот' для старта.".format(self.group)
@@ -49,23 +50,43 @@ class Command:
         elif message == "На сегодня":
             #  Определение четности/нечетности недели (0 - н/ч; 1 - ч)
             week_type = int(not Schedule.count_week_num() % 2)
-            return Schedule.get_response(self.group, today, week_type, True)
+            return Schedule.get_response_schedule(self.group, today, week_type, True)
 
         #  Расписание на завтра
         elif message == "На завтра":
             week_type = int(not Schedule.count_week_num() % 2)
             tomorrow = today + timedelta(days=1)
-            return Schedule.get_response(self.group, tomorrow, week_type, True)
+            return Schedule.get_response_schedule(self.group, tomorrow, week_type, True)
 
         #  Расписание на текущую неделю
         elif message == "На эту неделю":
             #  Первый день текущей недели
             start = today - timedelta(days=today.weekday())
             week_type = int(not Schedule.count_week_num() % 2)
-            return Schedule.get_response(self.group, start, week_type)
+            return Schedule.get_response_schedule(self.group, start, week_type)
 
         #  Расписание на следующую неделю
         elif message == "На следующую неделю":
             start = today + timedelta(days=7) - timedelta(days=today.weekday())
             week_type = int(Schedule.count_week_num() % 2)
-            return Schedule.get_response(self.group, start, week_type)
+            return Schedule.get_response_schedule(self.group, start, week_type)
+
+        elif re.match(r"Бот [А-Я,а-я]+", message):
+            mes = message.replace("Бот ", "").replace(" ", "-").split()
+
+            #  Проверка на ввод "Бот <день_недели>"
+            if mes[0].title() in week_day_dict.keys() != "-" and len(mes[0]) <= 11 and re.match(r"[а-я]{5,}", mes[0]):
+                return Schedule.get_response_for_day_schedule(self.group, mes[0])
+
+            #  Проверка на ввод "Бот <номер_группы>"
+            elif re.match(GROUP_REGEX, mes[0]):
+                self.group = mes[0].upper()
+                return "Доступно расписание для группы {}.".format(self.group)
+
+            #  Проверка на ввод "Бот <день_недели номер_группы>"
+            else:
+                arr = mes[0].replace("-", " ", 1).split()
+                if arr[0].title() in week_day_dict.keys() and re.match(r"[а-я]{5,}", arr[0]) and re.match(GROUP_REGEX, arr[1]):
+                    return Schedule.get_response_for_day_schedule(arr[1].upper(), arr[0])
+
+        return "Неверно введена команда."
