@@ -1,3 +1,4 @@
+
 #  VK api токен для доступа
 vk_api_token = "Your vk api token..."
 
