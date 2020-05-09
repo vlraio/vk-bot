@@ -6,7 +6,7 @@ from config import excel_table_path
 
 
 #  Сериализация данных (расписание) в json файлы
-class ParseData:
+class ParseSchedule:
 
     @staticmethod
     def operate(f):
@@ -60,4 +60,4 @@ class ParseData:
     @staticmethod
     def start(folders_list):
         for folder in folders_list:
-            ParseData.operate(folder)
+            ParseSchedule.operate(folder)

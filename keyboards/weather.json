@@ -1,0 +1,34 @@
+{
+  "one_time": false,
+  "inline": false,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "Сейчас"
+      },
+      "color": "primary"
+    },
+      {
+        "action": {
+          "type": "text",
+          "label": "Сегодня"
+        },
+        "color": "positive"
+      },
+      {
+      "action": {
+        "type": "text",
+        "label": "Завтра"
+      },
+      "color": "positive"
+      }],
+    [{
+      "action": {
+        "type": "text",
+        "label": "На 5 дней"
+      },
+      "color": "positive"
+    }]
+  ]
+}

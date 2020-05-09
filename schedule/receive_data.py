@@ -6,7 +6,7 @@ from config import web_schedule_link, excel_table_path
 
 
 #  Получение данных (расписание) с сайта
-class ReceiveData:
+class ReceiveSchedule:
 
     @staticmethod
     def start():

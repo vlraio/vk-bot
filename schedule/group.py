@@ -1,6 +1,6 @@
 import json
 
-from config import json_data_path
+from config import json_schedule_path
 
 
 #  Модель для общения с данными расписания
@@ -10,7 +10,7 @@ class Group:
         self.schedule = None
 
     def set_schedule(self, sch):
-        f = open("{0}{1}.json".format(json_data_path, self.name), "w")
+        f = open("{0}{1}.json".format(json_schedule_path, self.name), "w")
         save = json.dumps(sch, ensure_ascii=False, indent=4)
         f.write(save)
         f.close()
@@ -18,6 +18,6 @@ class Group:
 
     @staticmethod
     def get_schedule_by_name(name):
-        with open("{0}{1}.json".format(json_data_path, name), "r", encoding="UTF-8") as f:
+        with open("{0}{1}.json".format(json_schedule_path, name), "r", encoding="UTF-8") as f:
             text = json.load(f)
             return text

@@ -5,6 +5,7 @@ from config import start_study_date, week_day_dict
 from schedule.group import Group
 
 
+#  Обработка запросов по расписанию
 class Schedule:
 
     #  Функция приветствия пользователя
@@ -83,4 +84,3 @@ class Schedule:
                 response += "\nРасписание на {} (ч)\n".format(week_day.replace("а", "у"))
                 response += Schedule.get_schedule(value, 1)
                 return response
-

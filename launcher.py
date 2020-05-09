@@ -3,7 +3,7 @@ from vk_api.longpoll import VkEventType, VkLongPoll
 from vk_api.utils import get_random_id
 
 from requests_processing import Command
-from config import JSON_CLEAR, JSON_SCHEDULE
+from config import JSON_CLEAR, JSON_SCHEDULE, JSON_WEATHER
 
 
 class Launcher:
@@ -33,6 +33,9 @@ class Launcher:
 
                 if event.text == "Бот" and Command.get_group(self.users[uid]) is not None:
                     self.json_kb = JSON_SCHEDULE
+
+                if event.text == "Погода":
+                    self.json_kb = JSON_WEATHER
 
                 self.send_message(uid, self.users[uid].input(event.message, self.vk_api, uid))
 
