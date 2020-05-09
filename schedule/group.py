@@ -6,15 +6,15 @@ from config import json_data_path
 #  Модель для общения с данными расписания
 class Group:
     def __init__(self, name):
-        self.__name = name
-        self.__schedule = None
+        self.name = name
+        self.schedule = None
 
     def set_schedule(self, sch):
-        f = open("{0}{1}.json".format(json_data_path, self.__name), "w")
+        f = open("{0}{1}.json".format(json_data_path, self.name), "w")
         save = json.dumps(sch, ensure_ascii=False, indent=4)
         f.write(save)
         f.close()
-        self.__schedule = save
+        self.schedule = save
 
     @staticmethod
     def get_schedule_by_name(name):

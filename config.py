@@ -1,6 +1,6 @@
 
 #  VK API токен для доступа
-vk_api_token = "7b8973a3a6009cabb4e1298a69f92c46a34f3d9964283fbf34c74b80f597121dd17fa023f0999dbbfcacf"
+vk_api_token = "Your vk api..."
 
 #  Сайт, с которого взяты данные
 web_schedule_link = "https://www.mirea.ru/schedule/"
