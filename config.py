@@ -1,13 +1,14 @@
 
 #  VK api токен для доступа
-vk_api_token = "Your vk api token..."
+vk_api_token = "7b8973a3a6009cabb4e1298a69f92c46a34f3d9964283fbf34c74b80f597121dd17fa023f0999dbbfcacf"
 
 #  OpenWeather api вызов
-weather_api_call = "https://api.openweathermap.org/data/2.5/{}?q={city}&appid={token}&units={unit}&lang={lang}"
+weather_api_call = "https://api.openweathermap.org/data/2.5/{" \
+                   "}?q=moscow&appid=d4caf1ea454415eb6df2072162f25fec&units=metric&lang=ru"
 
 #  Ссылка на картинки по погоде
-weather_link_png = "https://openweathermap.org/img/wn/{}@2x.png"
-
+weather_link_png = "https://openweathermap.org/img/wn/{}.png"
+#  "https://openweathermap.org/img/wn/{}@2x.png"
 #  Сайт, с которого взяты данные
 web_schedule_link = "https://www.mirea.ru/schedule/"
 
@@ -17,7 +18,7 @@ excel_table_path = "schedule/tables/"
 #  Ссылки на папки с хранилищем json файлов
 json_schedule_path = "schedule/json-files-data/"
 json_weather_path = "weather/json-files-data/"
-json_icons_path = "weather/icons/"
+icons_path = "weather/icons/"
 
 #  Дата начала обучения в семестре
 start_study_date = "2020-02-10"
@@ -39,7 +40,7 @@ wind_beaufort_dict = {"штиль": [0.0, 0.2], "тихий": [0.3, 1.5], "ле�
 #  Словарь с данными по напрвлению ветра (румб)
 wind_rumb_dict = {"северный": [0.0, 44.99], "северо-восточный": [45.0, 89.99], "восточный": [90.0, 134.99],
                   "юго-восточный": [135.0, 179.99], "южный": [180.0, 224.99], "юго-западный": [225.0, 269.99],
-                  "западный": [270.0, 314.99], "северо-западный": [315.0, 359.99]}
+                  "западный": [270.0, 314.99], "северо-западный": [315.0, 360.0]}
 
 #  Регулярное выражение для выбора номера группы
 GROUP_REGEX = r"[и,И]{1}[а,А,в,В,к,К,н,Н]{1}[б,Б]{1}[о,О]{1}([-]|[ ])([0-9]){2}([-]|[ ])1([7-9]){1}"

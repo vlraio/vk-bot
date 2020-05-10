@@ -2,10 +2,10 @@ import vk_api
 from vk_api import VkUpload
 from vk_api.longpoll import VkEventType, VkLongPoll
 from vk_api.utils import get_random_id
-import requests
+import requests as rq
 
 from requests_processing import Command
-from config import JSON_CLEAR, JSON_SCHEDULE, JSON_WEATHER, weather_link_png
+from config import JSON_CLEAR, JSON_SCHEDULE, JSON_WEATHER, icons_path
 
 
 class Launcher:
@@ -20,16 +20,22 @@ class Launcher:
         self.attachments = []
 
     def send_message(self, user_id, resp):
-        icon = None
+        img = None
         try:
-            message, icon = resp
+            message, img = resp
         except ValueError:
             message = resp
 
-        if icon is not None:
-            image = requests.get(weather_link_png.format(icon), stream=True)
-            photo = self.upload.photo_messages(photos=image.raw)[0]
-            self.attachments.append("photo{}_{}".format(photo["owner_id"], photo["id"]))
+        if img is not None:
+            #  Отправка полученного изображения на сервер вк
+            server = self.vk.method("photos.getMessagesUploadServer")
+            post_req = rq.post(server["upload_url"], files={"photo": open(img, "rb")}).json()
+
+            save = self.vk.method("photos.saveMessagesPhoto", {"photo": post_req["photo"],
+                                                               "server": post_req["server"],
+                                                               "hash": post_req["hash"]})[0]
+
+            self.attachments.append("photo{}_{}".format(save["owner_id"], save["id"]))
 
         self.vk_api.messages.send(
             user_id=user_id,

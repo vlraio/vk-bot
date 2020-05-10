@@ -69,7 +69,18 @@ class ModeWork:
 
     @staticmethod
     def weather(message):
+        today = datetime.today()
         if message == "Сейчас":
+            return Weather.get_weather_now()
+
+        if message == "В течение дня":
             return Weather.get_weather_today()
+
+        if message == "Завтра":
+            tomorrow = today + timedelta(days=1)
+            return Weather.get_weather_tomorrow(tomorrow)
+
+        if message == "На 5 дней":
+            return Weather.get_weather_5_days(today)
 
         return "Неверно введена команда."

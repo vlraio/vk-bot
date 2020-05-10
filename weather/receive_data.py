@@ -1,14 +1,11 @@
 import requests as rq
 import json
 
-from config import weather_api_call, weather_link_png, json_weather_path, json_icons_path
+from config import weather_api_call, weather_link_png, json_weather_path, icons_path
 
 
 #  Получение данных (погоды) с сайта и сохранение в json
 class ReceiveWeather:
-
-    def __init__(self, title):
-        self.icon_title = title
 
     @staticmethod
     def start(w_type):
@@ -19,5 +16,13 @@ class ReceiveWeather:
         f.write(save)
         f.close()
 
-    def get_icon(self):
-        return rq.get(weather_link_png.format(self.icon_title), stream=True)
+    @staticmethod
+    def load_icons():
+        var = ["01{}", "02{}", "03{}", "04{}", "09{}", "10{}", "11{}", "13{}", "50{}"]
+        mode = ["d", "n"]
+        for m in mode:
+            for v in var:
+                resp = rq.get(weather_link_png.format(v.format(m)))
+                with open("{0}{1}.png".format(icons_path, v.format(m)), "wb") as f:
+                    f.write(resp.content)
+                    f.close()

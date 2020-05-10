@@ -12,7 +12,7 @@
       {
         "action": {
           "type": "text",
-          "label": "Сегодня"
+          "label": "В течение дня"
         },
         "color": "positive"
       },

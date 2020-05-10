@@ -42,6 +42,10 @@ class Command:
 
         elif message == "Погода":
             self.mode = Mode.weather
+            ReceiveWeather.start("weather")
+            ReceiveWeather.start("forecast")
+            #  Загрузка иконок из интернета
+            #  ReceiveWeather.load_icons()
             return "Режим погоды включен."
 
         if self.mode == Mode.schedule:
@@ -49,9 +53,6 @@ class Command:
             return response
 
         if self.mode == Mode.weather:
-            ReceiveWeather.start("weather")
-            ReceiveWeather.start("forecast")
-            response, icon = ModeWork.weather(message)
-            return response, icon
+            return ModeWork.weather(message)
 
         return "Такого режима нет."
