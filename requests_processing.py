@@ -51,7 +51,7 @@ class Command:
         if self.mode == Mode.weather:
             ReceiveWeather.start("weather")
             ReceiveWeather.start("forecast")
-            response = ModeWork.weather(message)
-            return response
+            response, icon = ModeWork.weather(message)
+            return response, icon
 
         return "Такого режима нет."
