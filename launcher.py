@@ -5,7 +5,7 @@ from vk_api.utils import get_random_id
 import requests as rq
 
 from requests_processing import Command
-from config import JSON_CLEAR, JSON_SCHEDULE, JSON_WEATHER, icons_path
+from config import JSON_CLEAR, JSON_SCHEDULE, JSON_WEATHER
 
 
 class Launcher:
@@ -54,10 +54,13 @@ class Launcher:
                 if uid not in self.users:
                     self.users[uid] = Command()
 
-                if event.text == "Бот" and Command.get_group(self.users[uid]) is not None:
+                if event.text.lower() == "бот" and Command.get_group(self.users[uid]) is not None:
                     self.json_kb = JSON_SCHEDULE
 
-                if event.text == "Погода":
+                if event.text.lower() == "погода":
                     self.json_kb = JSON_WEATHER
+
+                if event.text.lower() == "ковид":
+                    self.json_kb = JSON_CLEAR
 
                 self.send_message(uid, self.users[uid].input(event.message, self.vk_api, uid))

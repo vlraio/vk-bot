@@ -1,15 +1,18 @@
 
 #  VK api токен для доступа
-vk_api_token = "Your vk api..."
+vk_api_token = "vk api token..."
 
 #  OpenWeather api вызов
 weather_api_call = "https://api.openweathermap.org/data/2.5/{}?q=moscow&appid={id}&units=metric&lang=ru"
 
 #  Ссылка на картинки по погоде
 weather_link_png = "https://openweathermap.org/img/wn/{}.png"
-#  "https://openweathermap.org/img/wn/{}@2x.png"
-#  Сайт, с которого взяты данные
+
+#  Сайт, с которого взяты данные по расписанию
 web_schedule_link = "https://www.mirea.ru/schedule/"
+
+#  Сайт на статистику зараженных
+link_covid = "https://coronavirusstat.ru/country/russia/"
 
 #  Ссылка на папку с хранилищем таблицы исходника
 excel_table_path = "schedule/tables/"

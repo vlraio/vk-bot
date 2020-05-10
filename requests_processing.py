@@ -36,11 +36,11 @@ class Command:
                    "\nНапишите 'Погода' для работы с погодой.".format(self.group)
 
         #  Выбор режима пользователем
-        elif message == "Бот":
+        elif message.lower() == "бот":
             self.mode = Mode.schedule
             return "Режим расписания включен."
 
-        elif message == "Погода":
+        elif message.lower() == "погода":
             self.mode = Mode.weather
             ReceiveWeather.start("weather")
             ReceiveWeather.start("forecast")
@@ -48,11 +48,16 @@ class Command:
             #  ReceiveWeather.load_icons()
             return "Режим погоды включен."
 
+        elif message.lower() == "ковид":
+            self.mode = Mode.covid
+            return ModeWork.covid()
+
         if self.mode == Mode.schedule:
             response, self.group = ModeWork.schedule(message, self.group)
             return response
 
         if self.mode == Mode.weather:
             return ModeWork.weather(message)
+
 
         return "Такого режима нет."

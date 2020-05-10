@@ -4,7 +4,6 @@ from launcher import Launcher
 from schedule.receive_data import ReceiveSchedule
 from schedule.parse_data import ParseSchedule
 
-
 #  ReceiveSchedule.start()
 #  ParseSchedule.start(schedule_list)
 

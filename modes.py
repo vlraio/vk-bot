@@ -4,6 +4,7 @@ import re
 
 from schedule.schedule_func import Schedule
 from weather.weather_func import Weather
+from covid.covid_func import Covid
 from config import GROUP_REGEX, week_day_dict
 
 
@@ -70,6 +71,7 @@ class ModeWork:
     @staticmethod
     def weather(message):
         today = datetime.today()
+
         if message == "Сейчас":
             return Weather.get_weather_now()
 
@@ -84,3 +86,7 @@ class ModeWork:
             return Weather.get_weather_5_days(today)
 
         return "Неверно введена команда."
+
+    @staticmethod
+    def covid():
+        return Covid.get_data()
