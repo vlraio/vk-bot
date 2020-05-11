@@ -51,3 +51,4 @@ class ReceiveCovid:
             x.append(re.findall(regex, str(num))[i].replace(" ", "").replace(">", "").replace("<", ""))
         x.reverse()
         return x
+
