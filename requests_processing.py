@@ -1,5 +1,6 @@
 import re
 
+from schedule.group import Group
 from weather.receive_data import ReceiveWeather
 from requests_list import RequestsList
 from schedule.schedule_func import Schedule
@@ -31,9 +32,15 @@ class Command:
         if self.group is None:
             if re.match(GROUP_REGEX, message) is None:
                 return "Вы неправильно ввели номер группы!\nПопробуйте ещё раз."
+
             self.group = message.upper().replace(" ", "-")
-            return "Ваша группа {}.\nНапишите 'Бот' для работы с расписанием." \
-                   "\nНапишите 'Погода' для работы с погодой.".format(self.group)
+            if Group.get_schedule_by_name(self.group) is None:
+                self.group = None
+                return "Такой группы не существует!\nПопробуйте ещё раз."
+
+            return "Ваша группа {}.\n\n\"БОТ\" - работа с расписанием." \
+                   "\n\"ПОГОДА\" - работа с погодой." \
+                   "\n\"КОВИД\" - просмотр статистики зараженных.".format(self.group)
 
         #  Выбор режима пользователем
         elif message.lower() == "бот":
@@ -58,6 +65,5 @@ class Command:
 
         if self.mode == Mode.weather:
             return ModeWork.weather(message)
-
 
         return "Такого режима нет."

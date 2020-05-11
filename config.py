@@ -1,9 +1,10 @@
 
 #  VK api токен для доступа
-vk_api_token = "vk api token..."
+vk_api_token = "7b8973a3a6009cabb4e1298a69f92c46a34f3d9964283fbf34c74b80f597121dd17fa023f0999dbbfcacf"
 
 #  OpenWeather api вызов
-weather_api_call = "https://api.openweathermap.org/data/2.5/{}?q=moscow&appid={id}&units=metric&lang=ru"
+weather_api_call = "https://api.openweathermap.org/data/2.5/{" \
+                   "}?q=moscow&appid=d4caf1ea454415eb6df2072162f25fec&units=metric&lang=ru"
 
 #  Ссылка на картинки по погоде
 weather_link_png = "https://openweathermap.org/img/wn/{}.png"
@@ -45,7 +46,7 @@ wind_rumb_dict = {"северный": [0.0, 44.99], "северо-восточн
                   "западный": [270.0, 314.99], "северо-западный": [315.0, 360.0]}
 
 #  Регулярное выражение для выбора номера группы
-GROUP_REGEX = r"[и,И]{1}[а,А,в,В,к,К,н,Н]{1}[б,Б]{1}[о,О]{1}([-]|[ ])([0-9]){2}([-]|[ ])1([7-9]){1}"
+GROUP_REGEX = r"[а-я,А-Я]{4}([-]|[ ])[0-9]{2}([-]|[ ])[0-9]{2}"
 
 #  Ссылки на json файлы с клавиатурами
 JSON_CLEAR = "keyboards/clear.json"

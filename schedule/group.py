@@ -18,6 +18,9 @@ class Group:
 
     @staticmethod
     def get_schedule_by_name(name):
-        with open("{0}{1}.json".format(json_schedule_path, name), "r", encoding="UTF-8") as f:
-            text = json.load(f)
-            return text
+        try:
+            with open("{0}{1}.json".format(json_schedule_path, name), "r", encoding="UTF-8") as f:
+                text = json.load(f)
+                return text
+        except FileNotFoundError:
+            return None
