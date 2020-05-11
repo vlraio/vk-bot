@@ -48,8 +48,8 @@ class ModeWork:
             week_type = int(Schedule.count_week_num() % 2)
             return Schedule.get_response_schedule(group, start, week_type), group
 
-        elif re.match(r"бот [а-я]+", message.lower()):
-            mes = message.replace("бот ", "").replace(" ", "-").split()
+        elif re.match(r"бот [а-я|А-Я]+", message.lower()):
+            mes = message.lower().replace("бот ", "").replace(" ", "-").split()
 
             #  Проверка на ввод "Бот <день_недели>"
             if mes[0].title() in week_day_dict.keys() != "-" and len(mes[0]) <= 11 and re.match(r"[а-я]{5,}", mes[0]):
@@ -60,7 +60,7 @@ class ModeWork:
                 group = mes[0].upper()
 
                 if Group.get_schedule_by_name(group) is None:
-                    return "Такой группы не существует!\nПопробуйте ещё раз."
+                    return "Такой группы не существует!\nПопробуйте ещё раз.", group
 
                 return "Доступно расписание для группы {}.".format(group), group
 

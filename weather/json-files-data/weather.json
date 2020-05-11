@@ -5,30 +5,33 @@
     },
     "weather": [
         {
-            "id": 802,
-            "main": "Clouds",
-            "description": "переменная облачность",
-            "icon": "03d"
+            "id": 501,
+            "main": "Rain",
+            "description": "дождь",
+            "icon": "10d"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": 14,
-        "feels_like": 10.92,
-        "temp_min": 14,
-        "temp_max": 14,
-        "pressure": 1008,
-        "humidity": 44
+        "temp": 18.01,
+        "feels_like": 13.18,
+        "temp_min": 16.11,
+        "temp_max": 19,
+        "pressure": 1006,
+        "humidity": 29
     },
     "visibility": 10000,
     "wind": {
-        "speed": 2,
-        "deg": 320
+        "speed": 4,
+        "deg": 290
+    },
+    "rain": {
+        "1h": 3.05
     },
     "clouds": {
-        "all": 40
+        "all": 0
     },
-    "dt": 1589176172,
+    "dt": 1589193331,
     "sys": {
         "type": 1,
         "id": 9029,

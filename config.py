@@ -1,9 +1,10 @@
 
 #  VK api токен для доступа
-vk_api_token = "vk api token..."
+vk_api_token = "7b8973a3a6009cabb4e1298a69f92c46a34f3d9964283fbf34c74b80f597121dd17fa023f0999dbbfcacf"
 
 #  OpenWeather api вызов
-weather_api_call = "https://api.openweathermap.org/data/2.5/{}?q=moscow&appid={id}&units=metric&lang=ru"
+weather_api_call = "https://api.openweathermap.org/data/2.5/{" \
+                   "}?q=moscow&appid=d4caf1ea454415eb6df2072162f25fec&units=metric&lang=ru"
 
 #  Ссылка на картинки по погоде
 weather_link_png = "https://openweathermap.org/img/wn/{}.png"
