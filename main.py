@@ -3,8 +3,7 @@ from launcher import Launcher
 
 from schedule.receive_data import ReceiveSchedule
 
+launcher = Launcher(token)
 
 ReceiveSchedule.start(schedule_list)
-
-launcher = Launcher(token)
 launcher.start()
