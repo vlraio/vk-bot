@@ -111,7 +111,7 @@
                 "sub_type": "лк",
                 "professor": "Гущина Е.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21583080/4717964"
             }
         ],
         [
@@ -127,7 +127,7 @@
                 "sub_type": "лк",
                 "professor": "Чижиков В.И.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://1drv.ms/f/s!AmQWAxV7ez6S0jiVHERg8-WFxu9R"
             }
         ],
         [
@@ -143,7 +143,7 @@
                 "sub_type": "пр",
                 "professor": "Юрченко Ю.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://drive.google.com/open?id=10vEt4skUrYdFqzRE8VUpTYk1HcP9rQGp"
             }
         ],
         [
@@ -175,7 +175,7 @@
                 "sub_type": "пр",
                 "professor": "Туснов Ю.И.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us02web.zoom.us/j/8680941946?pwd=YjJpdGNNclhLSm5uYXI4UEt1SGlqQT09"
             }
         ],
         [
@@ -250,7 +250,7 @@
                 "sub_type": "пр",
                 "professor": "Иванова Е.А.",
                 "room": "Д",
-                "link": "https://us04web.zoom.us/j/77936606382?pwd=ZWxGa2wvc2g1SlVQNGJFa1ZpQ2RYUT09"
+                "link": "-"
             },
             {
                 "subject": "Ин. язык (фр.)",
@@ -273,7 +273,7 @@
                 "sub_type": "пр",
                 "professor": "Игнатьев Ф.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -289,7 +289,7 @@
                 "sub_type": "пр",
                 "professor": "Игнатьев Ф.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ]
     ],
@@ -300,30 +300,30 @@
                 "sub_type": "лк",
                 "professor": "Кузнецова Е.Ю.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/21583080/4626578"
+                "link": "-"
             },
             {
                 "subject": "Мат. анализ",
                 "sub_type": "лк",
                 "professor": "Кузнецова Е.Ю.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21583080/4718984"
             }
         ],
         [
+            {
+                "subject": "Мат. анализ",
+                "sub_type": "пр",
+                "professor": "Булах Е.Э.",
+                "room": "Д",
+                "link": "-"
+            },
             {
                 "subject": "Мат. анализ",
                 "sub_type": "пр",
                 "professor": "Булах Е.Э.",
                 "room": "Д",
                 "link": "https://join.skype.com/hVSLRx8aF0Ik"
-            },
-            {
-                "subject": "Мат. анализ",
-                "sub_type": "пр",
-                "professor": "Булах Е.Э.",
-                "room": "Д",
-                "link": "-"
             }
         ],
         [
@@ -332,14 +332,14 @@
                 "sub_type": "пр",
                 "professor": "Булах Е.Э.",
                 "room": "Д",
-                "link": "https://discord.gg/XzBPgPG"
+                "link": "-"
             },
             {
                 "subject": "Лин. алгебра и АГ",
                 "sub_type": "пр",
                 "professor": "Булах Е.Э.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://join.skype.com/lBxXs0yl9dIl"
             }
         ],
         [
@@ -380,7 +380,7 @@
                 "sub_type": "пр\nпр",
                 "professor": "Булах Е.Э.\nБулах Е.Э.",
                 "room": "Д",
-                "link": "https://discord.gg/XzBPgPG"
+                "link": "-"
             },
             {
                 "subject": "ОО программирование 10,14 н. Физика",
@@ -398,14 +398,14 @@
                 "sub_type": "лк",
                 "professor": "Путуридзе З.Ш.",
                 "room": "Д",
-                "link": "Автоматизированная система обучения \"Аврора\""
+                "link": "-"
             },
             {
                 "subject": "Физика",
                 "sub_type": "лк",
                 "professor": "Коробкин Ю.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21586908/4722128"
             }
         ],
         [
@@ -519,7 +519,7 @@
                 "sub_type": "лк",
                 "professor": "Гущина Е.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us02web.zoom.us/j/9619002048"
             }
         ],
         [
@@ -535,7 +535,7 @@
                 "sub_type": "лк",
                 "professor": "Коробкин Ю.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21583080/4720238"
             }
         ],
         [
@@ -567,7 +567,7 @@
                 "sub_type": "пр",
                 "professor": "Игнатьев Ф.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -583,7 +583,7 @@
                 "sub_type": "пр",
                 "professor": "Игнатьев Ф.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ]
     ]

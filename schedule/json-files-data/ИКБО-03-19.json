@@ -127,7 +127,7 @@
                 "sub_type": "пр",
                 "professor": "Игнатьев Ф.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -143,7 +143,7 @@
                 "sub_type": "пр",
                 "professor": "Игнатьев Ф.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -159,7 +159,7 @@
                 "sub_type": "лк",
                 "professor": "Чижиков В.И.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://1drv.ms/f/s!AmQWAxV7ez6S0jiVHERg8-WFxu9R"
             }
         ],
         [
@@ -218,14 +218,14 @@
                 "sub_type": "пр",
                 "professor": "Кораблин Ю.П.",
                 "room": "Д",
-                "link": "https://yadi.sk/d/Lr2z5a2bLeiNBg"
+                "link": "-"
             },
             {
                 "subject": "Структуры и АОД",
                 "sub_type": "пр",
                 "professor": "Кораблин Ю.П.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/brLnQJLw0wqHVw"
             }
         ],
         [
@@ -250,14 +250,14 @@
                 "sub_type": "лк",
                 "professor": "Кораблин Ю.П.",
                 "room": "Д",
-                "link": "https://yadi.sk/d/gkKN1triTiLN2w"
+                "link": "-"
             },
             {
                 "subject": "Физика",
                 "sub_type": "лк",
                 "professor": "Епифанов Ю.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21586908/4720080"
             }
         ],
         [
@@ -282,7 +282,7 @@
                 "sub_type": "лк",
                 "professor": "Татаринцев А.В.",
                 "room": "Д",
-                "link": "https://us04web.zoom.us/j/3292778005"
+                "link": "-"
             },
             {
                 "subject": "Физика 12 н. Ин. язык (нем.)",
@@ -300,62 +300,62 @@
                 "sub_type": "лк",
                 "professor": "Берков Н.А.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/21586908/4632502"
+                "link": "-"
             },
             {
                 "subject": "Лин. алгебра и АГ",
                 "sub_type": "лк",
                 "professor": "Берков Н.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21586908/4721484"
             }
         ],
         [
+            {
+                "subject": "Физика",
+                "sub_type": "пр",
+                "professor": "Логачев И.И.",
+                "room": "Д",
+                "link": "-"
+            },
             {
                 "subject": "Физика",
                 "sub_type": "пр",
                 "professor": "Логачев И.И.",
                 "room": "Д",
                 "link": "https://join.skype.com/iU3zOfutNYNB"
+            }
+        ],
+        [
+            {
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
             },
             {
-                "subject": "Физика",
+                "subject": "Физ.культура и спорт",
+                "sub_type": "-",
+                "professor": "-",
+                "room": "Д",
+                "link": "-"
+            }
+        ],
+        [
+            {
+                "subject": "Лин. алгебра и АГ",
                 "sub_type": "пр",
-                "professor": "Логачев И.И.",
-                "room": "Д",
-                "link": "-"
-            }
-        ],
-        [
-            {
-                "subject": "Физ.культура и спорт",
-                "sub_type": "-",
-                "professor": "-",
+                "professor": "Берков Н.А.",
                 "room": "Д",
                 "link": "-"
             },
-            {
-                "subject": "Физ.культура и спорт",
-                "sub_type": "-",
-                "professor": "-",
-                "room": "Д",
-                "link": "-"
-            }
-        ],
-        [
             {
                 "subject": "Лин. алгебра и АГ",
                 "sub_type": "пр",
                 "professor": "Берков Н.А.",
                 "room": "Д",
                 "link": "https://us02web.zoom.us/j/87818768663"
-            },
-            {
-                "subject": "Лин. алгебра и АГ",
-                "sub_type": "пр",
-                "professor": "Берков Н.А.",
-                "room": "Д",
-                "link": "-"
             }
         ],
         [
@@ -387,7 +387,7 @@
                 "sub_type": "пр\nпр",
                 "professor": "Берков Н.А.\nЛогачев И.И.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://join.skype.com/iU3zOfutNYNB"
             }
         ]
     ],
@@ -446,14 +446,14 @@
                 "sub_type": "лк",
                 "professor": "Татаринцев А.В.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/21586908/4633108"
+                "link": "-"
             },
             {
                 "subject": " Мат. анализ",
                 "sub_type": "лк",
                 "professor": "Татаринцев А.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21583080/4719558"
             }
         ],
         [
@@ -462,7 +462,7 @@
                 "sub_type": "пр",
                 "professor": "Иванова Е.А.",
                 "room": "Д",
-                "link": "https://us04web.zoom.us/j/78807561465?pwd=V2ZESnhtemxiaFBuUzVVbU0yNXpzQT09"
+                "link": "-"
             },
             {
                 "subject": " Ин. язык (фр.)",
@@ -478,14 +478,14 @@
                 "sub_type": "пр",
                 "professor": "Белова И.М.",
                 "room": "Д",
-                "link": "854 985 8666 идентификатор конференции zoom"
+                "link": "-"
             },
             {
                 "subject": " Мат. анализ",
                 "sub_type": "пр",
                 "professor": "Белова И.М.",
                 "room": "Д",
-                "link": "-"
+                "link": "идентификатор конференции в zoom 854-985-8666"
             }
         ]
     ],
@@ -535,7 +535,7 @@
                 "sub_type": "пр",
                 "professor": "Игнатьев Ф.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -551,7 +551,7 @@
                 "sub_type": "пр",
                 "professor": "Игнатьев Ф.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [

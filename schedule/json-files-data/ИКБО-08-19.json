@@ -13,7 +13,7 @@
                 "sub_type": "пр",
                 "professor": "Южаков В.Е.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -29,7 +29,7 @@
                 "sub_type": "пр",
                 "professor": "Южаков В.Е.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -45,7 +45,7 @@
                 "sub_type": "лк",
                 "professor": "Воронцов А.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://1drv.ms/f/s!AmQWAxV7ez6S0jiVHERg8-WFxu9R"
             }
         ],
         [
@@ -127,7 +127,7 @@
                 "sub_type": "пр",
                 "professor": "Габриелян Г.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/MqO9j0Rx9E0XQA"
             }
         ],
         [
@@ -159,7 +159,7 @@
                 "sub_type": "пр",
                 "professor": "Туснов Ю.И.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21586908/4714778"
             }
         ],
         [
@@ -175,7 +175,7 @@
                 "sub_type": "лк",
                 "professor": "Грач Е.П.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -300,14 +300,14 @@
                 "sub_type": "пр",
                 "professor": "Сыромятников В.П.",
                 "room": "Д",
-                "link": "https://yadi.sk/d/ASk12BQH69eLfA"
+                "link": "-"
             },
             {
                 "subject": "Структуры и АОД",
                 "sub_type": "пр",
                 "professor": "Сыромятников В.П.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/dS-DdSfkcTyFVg"
             }
         ],
         [
@@ -316,14 +316,14 @@
                 "sub_type": "пр",
                 "professor": "Горшунова Т.А.",
                 "room": "Д",
-                "link": "https://us02web.zoom.us/j/720906542"
+                "link": "-"
             },
             {
                 "subject": "Лин. алгебра и АГ",
                 "sub_type": "пр",
                 "professor": "Горшунова Т.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us02web.zoom.us/j/720906542"
             }
         ],
         [
@@ -339,7 +339,7 @@
                 "sub_type": "лк",
                 "professor": "Сыромятников В.П.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/Q67xzqxIWm3dJA"
             }
         ],
         [
@@ -348,30 +348,30 @@
                 "sub_type": "лк",
                 "professor": "Горшунова Т.А.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/21583080/4626686"
+                "link": "-"
             },
             {
                 "subject": "Лин. алгебра и АГ",
                 "sub_type": "лк",
                 "professor": "Горшунова Т.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21586908/4721680"
             }
         ],
         [
+            {
+                "subject": "Мат. анализ",
+                "sub_type": "пр",
+                "professor": "Приходько В.Ю.",
+                "room": "Д",
+                "link": "-"
+            },
             {
                 "subject": "Мат. анализ",
                 "sub_type": "пр",
                 "professor": "Приходько В.Ю.",
                 "room": "Д",
                 "link": "https://us04web.zoom.us/j/7130142697?pwd=dDUyRDZnd3FsWVhwa1JuUU8xS2gyUT09"
-            },
-            {
-                "subject": "Мат. анализ",
-                "sub_type": "пр",
-                "professor": "Приходько В.Ю.",
-                "room": "Д",
-                "link": "-"
             }
         ],
         [
@@ -398,14 +398,14 @@
                 "sub_type": "лк",
                 "professor": "Захаров В.Е.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/21583080/4627292"
+                "link": "-"
             },
             {
                 "subject": " Мат. анализ",
                 "sub_type": "лк",
                 "professor": "Захаров В.Е.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21583080/4719454"
             }
         ],
         [
@@ -414,7 +414,7 @@
                 "sub_type": "пр\nпр",
                 "professor": "Ростомян Л.А.\nГриценко С.А./Ослякова И.В.",
                 "room": "Д",
-                "link": "https://us02web.zoom.us/j/84841838591 (Ослякова), https://us04web.zoom.us/j/73074156961?pwd=aTcxTjg4R3NNRzJYY1Q1ZnN5SktlQT09 (Ростомян)"
+                "link": "-"
             },
             {
                 "subject": " Ин. язык (1 п/г)  Ин.язык (нем., фр.)",
@@ -437,7 +437,7 @@
                 "sub_type": "лк",
                 "professor": "Шаталов Ф.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21586908/4722528"
             }
         ],
         [
@@ -535,7 +535,7 @@
                 "sub_type": "пр",
                 "professor": "Южаков В.Е.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -551,7 +551,7 @@
                 "sub_type": "пр",
                 "professor": "Южаков В.Е.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -567,7 +567,7 @@
                 "sub_type": "пр",
                 "professor": "Южаков В.Е.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [

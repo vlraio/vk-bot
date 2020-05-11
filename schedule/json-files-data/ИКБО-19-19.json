@@ -45,7 +45,7 @@
                 "sub_type": "лк",
                 "professor": "Воронцов А.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://1drv.ms/f/s!AmQWAxV7ez6S0jiVHERg8-WFxu9R"
             }
         ],
         [
@@ -111,7 +111,7 @@
                 "sub_type": "пр",
                 "professor": "Бишаев  А.М.",
                 "room": "Д",
-                "link": "-"
+                "link": "Discord: Андрей Бишаев#8407"
             }
         ],
         [
@@ -143,7 +143,7 @@
                 "sub_type": "пр",
                 "professor": "Боронников А.С.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -159,7 +159,7 @@
                 "sub_type": "пр",
                 "professor": "Боронников А.С.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -175,7 +175,7 @@
                 "sub_type": "лк",
                 "professor": "Грач Е.П.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -316,7 +316,7 @@
                 "sub_type": "пр",
                 "professor": "Каппушева И.Ш.",
                 "room": "Д",
-                "link": "https://us02web.zoom.us/j/84936793566?pwd=Q3pTN1p0M3B0RTJxM1BlOVNEVjdvQT09"
+                "link": "-"
             },
             {
                 "subject": "Ин. язык (1 п/г)",
@@ -332,14 +332,14 @@
                 "sub_type": "пр",
                 "professor": "Гельмиярова В.Н.",
                 "room": "Д",
-                "link": "https://discord.gg/eKBRMn"
+                "link": "-"
             },
             {
                 "subject": "Структуры и АОД",
                 "sub_type": "лк",
                 "professor": "Сыромятников В.П.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/Q67xzqxIWm3dJA"
             }
         ],
         [
@@ -348,14 +348,14 @@
                 "sub_type": "лк",
                 "professor": "Горшунова Т.А.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/21583080/4626686"
+                "link": "-"
             },
             {
                 "subject": "Лин. алгебра и АГ",
                 "sub_type": "лк",
                 "professor": "Горшунова Т.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21586908/4721680"
             }
         ],
         [
@@ -364,14 +364,14 @@
                 "sub_type": "пр",
                 "professor": "Сыромятников В.П.",
                 "room": "Д",
-                "link": "https://yadi.sk/d/bX7sHHM_rsR1lg"
+                "link": "-"
             },
             {
                 "subject": "Структуры и АОД",
                 "sub_type": "пр",
                 "professor": "Сыромятников В.П.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/VhUHb63Es9m86A"
             }
         ],
         [
@@ -380,14 +380,14 @@
                 "sub_type": "пр",
                 "professor": "Габриелян Г.А.",
                 "room": "Д",
-                "link": "https://yadi.sk/d/IfSMxiuJDqtqFw"
+                "link": "-"
             },
             {
                 "subject": "Ознакомительная практика",
                 "sub_type": "пр",
                 "professor": "Габриелян Г.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/w0xJ28cNRpLD9w"
             }
         ]
     ],
@@ -398,14 +398,14 @@
                 "sub_type": "лк",
                 "professor": "Захаров В.Е.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/21583080/4627292"
+                "link": "-"
             },
             {
                 "subject": " Мат. анализ",
                 "sub_type": "лк",
                 "professor": "Захаров В.Е.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21583080/4719454"
             }
         ],
         [
@@ -414,14 +414,14 @@
                 "sub_type": "пр",
                 "professor": "Гельмиярова В.Н.",
                 "room": "Д",
-                "link": "https://discord.gg/8AncsZ"
+                "link": "-"
             },
             {
                 "subject": "  Мат. анализ",
                 "sub_type": "пр",
                 "professor": "Гельмиярова В.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://discord.gg/a8AbJT"
             }
         ],
         [
@@ -437,7 +437,7 @@
                 "sub_type": "лк",
                 "professor": "Шаталов Ф.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21586908/4722528"
             }
         ],
         [
@@ -446,14 +446,14 @@
                 "sub_type": "пр",
                 "professor": "Руденская И.Н.",
                 "room": "Д",
-                "link": "https://us04web.zoom.us/j/71705446045"
+                "link": "-"
             },
             {
                 "subject": "Лин. алгебра и АГ",
                 "sub_type": "пр",
                 "professor": "Руденская И.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21586908/4722872"
             }
         ],
         [

@@ -111,7 +111,7 @@
                 "sub_type": "пр",
                 "professor": "Рогонова О.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -127,7 +127,7 @@
                 "sub_type": "пр",
                 "professor": "Рогонова О.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -159,7 +159,7 @@
                 "sub_type": "лк",
                 "professor": "Чижиков В.И.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://1drv.ms/f/s!AmQWAxV7ez6S0jiVHERg8-WFxu9R"
             }
         ],
         [
@@ -218,7 +218,7 @@
                 "sub_type": "пр",
                 "professor": "Курсевич Д.В.\nГаврилова Е.А.",
                 "room": "Д",
-                "link": "https://us02web.zoom.us/j/8788250726 (Гаврилова), https://us02web.zoom.us/j/89697921833?pwd=OEoxVm5DancrTTZCMjdWMWxuMWJ6Zz09  (Курсевич)"
+                "link": "-"
             },
             {
                 "subject": "Ин. язык",
@@ -234,14 +234,14 @@
                 "sub_type": "пр",
                 "professor": "Козис Е.В.",
                 "room": "Д",
-                "link": "https://join.skype.com/g2CDaRBYSyK2"
+                "link": "-"
             },
             {
                 "subject": "Физика",
                 "sub_type": "пр",
                 "professor": "Козис Е.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://join.skype.com/g2CDaRBYSyK2"
             }
         ],
         [
@@ -250,14 +250,14 @@
                 "sub_type": "лк",
                 "professor": "Кораблин Ю.П.",
                 "room": "Д",
-                "link": "https://yadi.sk/d/gkKN1triTiLN2w"
+                "link": "-"
             },
             {
                 "subject": "Физика",
                 "sub_type": "лк",
                 "professor": "Епифанов Ю.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21586908/4720080"
             }
         ],
         [
@@ -282,7 +282,7 @@
                 "sub_type": "лк\nпр",
                 "professor": "Татаринцев А.В.\nКозис Е.В.",
                 "room": "Д",
-                "link": "https://us04web.zoom.us/j/3292778005"
+                "link": "-"
             },
             {
                 "subject": "Физика 12 н. Ин. Язык 14 н. Физика",
@@ -300,14 +300,14 @@
                 "sub_type": "лк",
                 "professor": "Берков Н.А.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/21586908/4632502"
+                "link": "-"
             },
             {
                 "subject": "Лин. алгебра и АГ",
                 "sub_type": "лк",
                 "professor": "Берков Н.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21586908/4721484"
             }
         ],
         [
@@ -332,14 +332,14 @@
                 "sub_type": "пр",
                 "professor": "Кораблин Ю.П.",
                 "room": "Д",
-                "link": "https://yadi.sk/d/Cv0WS-t9Rfvv8Q"
+                "link": "-"
             },
             {
                 "subject": "Структуры и АОД",
                 "sub_type": "пр",
                 "professor": "Кораблин Ю.П.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/Fs5ogu3gGEiL8A"
             }
         ],
         [
@@ -398,14 +398,14 @@
                 "sub_type": "пр",
                 "professor": "Немировская-Дутчак О.Э.",
                 "room": "Д",
-                "link": "https://discordapp.com/invite/X6f3T2M"
+                "link": "-"
             },
             {
                 "subject": " Лин. алгебра и АГ",
                 "sub_type": "пр",
                 "professor": "Немировская-Дутчак О.Э.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://discordapp.com/invite/X6f3T2M"
             }
         ],
         [
@@ -414,14 +414,14 @@
                 "sub_type": "пр",
                 "professor": "Немировская-Дутчак О.Э.",
                 "room": "Д",
-                "link": "https://discordapp.com/invite/X6f3T2M"
+                "link": "-"
             },
             {
                 "subject": " Мат. анализ",
                 "sub_type": "пр",
                 "professor": "Немировская-Дутчак О.Э.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://discordapp.com/invite/X6f3T2M"
             }
         ],
         [
@@ -437,7 +437,7 @@
                 "sub_type": "пр",
                 "professor": "Буданцев А.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://drive.google.com/open?id=1yTM1kp-NxNAPJQXEygMhV7kCfqtPIoFH"
             }
         ],
         [
@@ -446,14 +446,14 @@
                 "sub_type": "лк",
                 "professor": "Татаринцев А.В.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/21586908/4633108"
+                "link": "-"
             },
             {
                 "subject": " Мат. анализ",
                 "sub_type": "лк",
                 "professor": "Татаринцев А.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21583080/4719558"
             }
         ],
         [

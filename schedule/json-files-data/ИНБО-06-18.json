@@ -29,7 +29,7 @@
                 "sub_type": "пр",
                 "professor": "Чердынцев В.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/20860024/4695770"
             }
         ],
         [
@@ -45,7 +45,7 @@
                 "sub_type": "лаб",
                 "professor": "Митина О.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/20860024/4695822"
             }
         ],
         [
@@ -61,7 +61,7 @@
                 "sub_type": "лаб",
                 "professor": "Митина О.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/20860024/4695822"
             }
         ],
         [
@@ -77,7 +77,7 @@
                 "sub_type": "лаб\nлаб",
                 "professor": "Митина О.А.\nМитина О.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/20860024/4695822"
             }
         ],
         [
@@ -93,7 +93,7 @@
                 "sub_type": "лаб\nлаб",
                 "professor": "Митина О.А.\nМитина О.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/20860024/4695822"
             }
         ]
     ],
@@ -143,7 +143,7 @@
                 "sub_type": "лаб",
                 "professor": "Железняк Л.М.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://drive.google.com/open?id=1HAhSf0fohG25MmiHZB8LDe5YHLNY2wYd"
             }
         ],
         [
@@ -159,7 +159,7 @@
                 "sub_type": "лк",
                 "professor": "Смирнов Н.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/BywCYxX0fr7V8w"
             }
         ],
         [
@@ -218,14 +218,14 @@
                 "sub_type": "пр",
                 "professor": "Митина О.А.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/20860024/4572860"
+                "link": "-"
             },
             {
                 "subject": " Разработка ПП",
                 "sub_type": "пр",
                 "professor": "Митина О.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/20860024/4695834"
             }
         ],
         [
@@ -241,7 +241,7 @@
                 "sub_type": "лк",
                 "professor": "Митина О.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/20860024/4695748"
             }
         ],
         [
@@ -250,7 +250,7 @@
                 "sub_type": "пр",
                 "professor": "Фролова О.А.",
                 "room": "Д",
-                "link": "https://us04web.zoom.us/j/78554791400"
+                "link": "-"
             },
             {
                 "subject": " Ин. язык",
@@ -266,7 +266,7 @@
                 "sub_type": "пр\nлк",
                 "professor": "Миронов А.Н.\nМиронов А.Н.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/20860024/4573298"
+                "link": "-"
             },
             {
                 "subject": " Экономика",
@@ -316,7 +316,7 @@
                 "sub_type": "лк",
                 "professor": "Лагунова А.Д.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/20860024/4572936"
+                "link": "-"
             },
             {
                 "subject": "Ин. язык (нем.)",
@@ -339,7 +339,7 @@
                 "sub_type": "пр",
                 "professor": "Лагунова А.Д.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/Rwv750ItXvmQ3w"
             }
         ],
         [
@@ -348,7 +348,7 @@
                 "sub_type": "пр",
                 "professor": "Пономарев А.Н.",
                 "room": "Д",
-                "link": "https://yadi.sk/d/YpFj9CXJD1v41A"
+                "link": "-"
             },
             {
                 "subject": "-",
@@ -405,7 +405,7 @@
                 "sub_type": "лк",
                 "professor": "Переходцева Э.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21586908/4722586"
             }
         ],
         [
@@ -414,14 +414,14 @@
                 "sub_type": "пр",
                 "professor": "Иванов М.Е.",
                 "room": "Д",
-                "link": "https://yadi.sk/d/4c-Km_u1g08LBQ"
+                "link": "-"
             },
             {
                 "subject": "Проект. и разраб. БД (1 п/г) 4,16 н. Проект. и разраб. БД (2 п/)",
                 "sub_type": "лаб\nлаб",
                 "professor": "Иванов М.Е.\nИванов М.Е.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/_42yKaj3gc_tiw"
             }
         ],
         [
@@ -430,14 +430,14 @@
                 "sub_type": "пр",
                 "professor": "Горшунова Т.А.",
                 "room": "Д",
-                "link": "https://us02web.zoom.us/j/783104732"
+                "link": "-"
             },
             {
                 "subject": "Теория вероятностей и МС",
                 "sub_type": "пр",
                 "professor": "Горшунова Т.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us02web.zoom.us/j/783104732"
             }
         ],
         [
@@ -446,14 +446,14 @@
                 "sub_type": "лаб\nлаб",
                 "professor": "Свищёв А.В.\nСвищёв А.В.",
                 "room": "Д",
-                "link": "https://yadi.sk/d/Y-mBEnxEccAEsA"
+                "link": "-"
             },
             {
                 "subject": "Выч. математика",
                 "sub_type": "лк",
                 "professor": "Дзержинский Р.И.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://1drv.ms/f/s!AmQWAxV7ez6S0jiVHERg8-WFxu9R"
             }
         ],
         [

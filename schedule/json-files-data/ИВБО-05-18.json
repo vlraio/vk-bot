@@ -29,7 +29,7 @@
                 "sub_type": "лаб",
                 "professor": "Железняк Л.М.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://drive.google.com/open?id=1avQBzHMc65KRRo9JU2wLXMNNSnBMiBdw"
             }
         ],
         [
@@ -45,7 +45,7 @@
                 "sub_type": "лк",
                 "professor": "Баранюк В.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/20860024/4695170"
             }
         ],
         [
@@ -61,7 +61,7 @@
                 "sub_type": "лк",
                 "professor": "Богомольная Г.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/20860024/4695188"
             }
         ],
         [
@@ -111,7 +111,7 @@
                 "sub_type": "лк",
                 "professor": "Богомольная Г.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://drive.google.com/open?id=1gTU8izjrkzRX7a89hYkABc0sXn7xBoZ5"
             }
         ],
         [
@@ -127,7 +127,7 @@
                 "sub_type": "лк",
                 "professor": "Самохин А.Б.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://drive.google.com/open?id=1gTU8izjrkzRX7a89hYkABc0sXn7xBoZ5"
             }
         ],
         [
@@ -143,7 +143,7 @@
                 "sub_type": "пр",
                 "professor": "Бескин А.Л.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/86HhmMwOQrYTDg"
             }
         ],
         [
@@ -159,7 +159,7 @@
                 "sub_type": "лк",
                 "professor": "Черноризова Н.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21591434/4715130 "
             }
         ],
         [
@@ -218,14 +218,14 @@
                 "sub_type": "лк",
                 "professor": "Жемчужникова Т.Н.",
                 "room": "Д",
-                "link": "https://drive.google.com/open?id=1WLTNmrNG0PB4VcrqTFIYO4ziVxIZPBYi"
+                "link": "-"
             },
             {
                 "subject": "Архитектура ВМиС",
                 "sub_type": "лк",
                 "professor": "Жемчужникова Т.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://drive.google.com/open?id=1WLTNmrNG0PB4VcrqTFIYO4ziVxIZPBYi"
             }
         ],
         [
@@ -234,14 +234,14 @@
                 "sub_type": "пр",
                 "professor": "Руденская И.Н.",
                 "room": "Д",
-                "link": "https://us04web.zoom.us/j/775067640"
+                "link": "-"
             },
             {
                 "subject": "Теория вероятностей и МС",
                 "sub_type": "пр",
                 "professor": "Руденская И.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us04web.zoom.us/j/775067640"
             }
         ],
         [
@@ -257,7 +257,7 @@
                 "sub_type": "пр",
                 "professor": "Жемчужникова Т.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://drive.google.com/open?id=1WLTNmrNG0PB4VcrqTFIYO4ziVxIZPBYi"
             }
         ],
         [
@@ -266,7 +266,7 @@
                 "sub_type": "пр",
                 "professor": "Курсевич Д.В.",
                 "room": "Д",
-                "link": "https://us02web.zoom.us/j/87394964335?pwd=R1ptd2pNY2x6YVFERnlwL0Q0allRdz09"
+                "link": "-"
             },
             {
                 "subject": "Ин. язык (2 п/г)",
@@ -300,14 +300,14 @@
                 "sub_type": "лаб",
                 "professor": "Гусев К.В.",
                 "room": "Д",
-                "link": "https://online-edu.mirea.ru/course/view.php?id=973"
+                "link": "-"
             },
             {
                 "subject": "Стандартизация ИТПД",
                 "sub_type": "пр",
                 "professor": "Гусев К.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://online-edu.mirea.ru/course/view.php?id=973"
             }
         ],
         [
@@ -323,7 +323,7 @@
                 "sub_type": "пр",
                 "professor": "Володина А.М.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://drive.google.com/open?id=1b5KWRsOERUbbkdy8DjgyqMr5q75c4TGK"
             }
         ],
         [
@@ -339,7 +339,7 @@
                 "sub_type": "лк",
                 "professor": "Гусев К.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://online-edu.mirea.ru/course/view.php?id=973"
             }
         ],
         [
@@ -348,7 +348,7 @@
                 "sub_type": "пр",
                 "professor": "-",
                 "room": "Д",
-                "link": "https://us04web.zoom.us/j/3032786039 (Иоффе)"
+                "link": "-"
             },
             {
                 "subject": "Ин. язык (1 п/г)",

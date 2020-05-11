@@ -29,7 +29,7 @@
                 "sub_type": "лаб",
                 "professor": "Одинцова М.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/pYy45sHR7hzhIQ"
             }
         ],
         [
@@ -45,7 +45,7 @@
                 "sub_type": "пр",
                 "professor": "Одинцова М.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/pYy45sHR7hzhIQ"
             }
         ],
         [
@@ -61,7 +61,7 @@
                 "sub_type": "лк",
                 "professor": "Одинцова М.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/pYy45sHR7hzhIQ"
             }
         ],
         [
@@ -77,7 +77,7 @@
                 "sub_type": "пр",
                 "professor": "Синицын А.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://cloud.mirea.ru/index.php/s/AenKE3aLWA8TXqB"
             }
         ],
         [
@@ -93,7 +93,7 @@
                 "sub_type": "лаб",
                 "professor": "Синицын А.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://cloud.mirea.ru/index.php/s/AenKE3aLWA8TXqB"
             }
         ]
     ],
@@ -127,7 +127,7 @@
                 "sub_type": "лк",
                 "professor": "Смоленцева Т.Е.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/A4zPXOOk8qOxQQ"
             }
         ],
         [
@@ -143,7 +143,7 @@
                 "sub_type": "лк",
                 "professor": "Смоленцева Т.Е.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/A4zPXOOk8qOxQQ"
             }
         ],
         [
@@ -159,7 +159,7 @@
                 "sub_type": "пр",
                 "professor": "Смоленцева Т.Е.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/A4zPXOOk8qOxQQ"
             }
         ],
         [
@@ -266,14 +266,14 @@
                 "sub_type": "лк\nлк",
                 "professor": "Одинцова М.А.\nЛагунова А.Д.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/20860024/4588192"
+                "link": "-"
             },
             {
                 "subject": "Администрирования БД 14 н. Проектирование ИС",
                 "sub_type": "лк\nлк",
                 "professor": "Смоленцева Т.Е.\nСмоленцева Т.Е.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/j3tIlDuCbWZOVA"
             }
         ],
         [
@@ -300,7 +300,7 @@
                 "sub_type": "лаб\nпр",
                 "professor": "Одинцова М.А.\nСиницын А.В.",
                 "room": "Д",
-                "link": "https://yadi.sk/d/DCa96GqjlguwlA"
+                "link": "-"
             },
             {
                 "subject": "Комп. графика 16 н. Проектирование ИС",
@@ -323,7 +323,7 @@
                 "sub_type": "лк",
                 "professor": "Лагунова А.Д.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/20860024/4696172"
             }
         ],
         [
@@ -332,14 +332,14 @@
                 "sub_type": "пр",
                 "professor": "Свищёв А.В.",
                 "room": "Д",
-                "link": "https://yadi.sk/d/gF3C2Bl2OkRThw"
+                "link": "-"
             },
             {
                 "subject": "2,6,10,14н. Стандартизация ИТ (1 п/г) 4,12,16 н. Стандартизация ИТ (2 п/г)",
                 "sub_type": "лаб\nлаб",
                 "professor": "Свищёв А.В.\nСвищёв А.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/bBTe8gN9Y9bfUQ"
             }
         ],
         [
@@ -348,14 +348,14 @@
                 "sub_type": "лаб",
                 "professor": "Черняускас В.В.",
                 "room": "Д",
-                "link": "https://yadi.sk/d/ABmPGQyMlOfUeQ"
+                "link": "-"
             },
             {
                 "subject": "Проектирование ИС (2 п/г)",
                 "sub_type": "лаб",
                 "professor": "Черняускас В.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/SBvCeiFckMTNmA"
             }
         ],
         [
@@ -398,14 +398,14 @@
                 "sub_type": "пр",
                 "professor": "Свищёв А.В.",
                 "room": "Д",
-                "link": "https://yadi.sk/d/Y-mBEnxEccAEsA"
+                "link": "-"
             },
             {
                 "subject": "Инф. технологии БП",
                 "sub_type": "пр",
                 "professor": "Свищёв А.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/t0vPsZv_jOiAiw"
             }
         ],
         [
@@ -430,14 +430,14 @@
                 "sub_type": "лк",
                 "professor": "Гантц И.С.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/20860024/4588334"
+                "link": "-"
             },
             {
                 "subject": "Архитектура организаций",
                 "sub_type": "лк",
                 "professor": "Гантц И.С.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/20860024/4696180"
             }
         ],
         [
@@ -446,7 +446,7 @@
                 "sub_type": "пр",
                 "professor": "Черняускас В.В.",
                 "room": "Д",
-                "link": "https://yadi.sk/d/H3wQPFQK87q8Tw"
+                "link": "-"
             },
             {
                 "subject": "Физ.культура и спорт",
@@ -462,7 +462,7 @@
                 "sub_type": "лаб\nлаб",
                 "professor": "Иванов М.Е.\nМакаревич А.Д.",
                 "room": "Д",
-                "link": "https://yadi.sk/d/4c-Km_u1g08LBQ"
+                "link": "-"
             },
             {
                 "subject": "Инф. технологии БП",

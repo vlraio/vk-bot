@@ -111,7 +111,7 @@
                 "sub_type": "лк",
                 "professor": "Скворцова Л.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/-77UdZBQlwf2fg"
             }
         ],
         [
@@ -127,7 +127,7 @@
                 "sub_type": "лк",
                 "professor": "Кесельман В.М.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21583080/4717914"
             }
         ],
         [
@@ -191,7 +191,7 @@
                 "sub_type": "пр\nлк\nпр",
                 "professor": "Евсеева О.А.\nКесельман В.М.\nЕвсеева О.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us02web.zoom.us/j/81847037843"
             }
         ]
     ],
@@ -202,14 +202,14 @@
                 "sub_type": "лк",
                 "professor": "Таланова Л.И.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/21586908/4632174"
+                "link": "-"
             },
             {
                 "subject": "Лин. алгебра и АГ",
                 "sub_type": "лк",
                 "professor": "Таланова Л.И.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21583080/4718314"
             }
         ],
         [
@@ -218,7 +218,7 @@
                 "sub_type": "пр",
                 "professor": "Рыбакова Е.Е.\nЧугаева К.М.",
                 "room": "Д",
-                "link": "https://us04web.zoom.us/j/79492806548?pwd=M2IvYyt6RjJUaXdDSmpsaWlyMFVXQT09 (Рыбакова)"
+                "link": "-"
             },
             {
                 "subject": "Ин. язык",
@@ -234,30 +234,30 @@
                 "sub_type": "пр",
                 "professor": "Скворцова Л.А.",
                 "room": "Д",
-                "link": "https://yadi.sk/d/sSw-xFaA7z-eoQ"
+                "link": "-"
             },
             {
                 "subject": "Структуры и АОД",
                 "sub_type": "пр",
                 "professor": "Скворцова Л.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/D7rNpeDaBNCeCw"
             }
         ],
         [
+            {
+                "subject": "Физика",
+                "sub_type": "пр",
+                "professor": "Рябенков В.И.",
+                "room": "Д",
+                "link": "-"
+            },
             {
                 "subject": "Физика",
                 "sub_type": "пр",
                 "professor": "Рябенков В.И.",
                 "room": "Д",
                 "link": "https://join.skype.com/i6E3oTF8GV2j"
-            },
-            {
-                "subject": "Физика",
-                "sub_type": "пр",
-                "professor": "Рябенков В.И.",
-                "room": "Д",
-                "link": "-"
             }
         ],
         [
@@ -282,7 +282,7 @@
                 "sub_type": "пр\nпр",
                 "professor": "Рыбакова Е.Е., Чугаева К.М.\nРябенков В.И.",
                 "room": "Д",
-                "link": "https://join.skype.com/i6E3oTF8GV2j"
+                "link": "-"
             },
             {
                 "subject": "Лин. алгебра и АГ",
@@ -300,14 +300,14 @@
                 "sub_type": "пр",
                 "professor": "Рогонова О.Н.",
                 "room": "Д",
-                "link": "Автоматизированная система обучения \"Аврора\""
+                "link": "-"
             },
             {
                 "subject": "ОО программирование",
                 "sub_type": "пр",
                 "professor": "Рогонова О.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -316,14 +316,14 @@
                 "sub_type": "пр",
                 "professor": "Рогонова О.Н.",
                 "room": "Д",
-                "link": "Автоматизированная система обучения \"Аврора\""
+                "link": "-"
             },
             {
                 "subject": "ОО программирование",
                 "sub_type": "пр",
                 "professor": "Рогонова О.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -371,7 +371,7 @@
                 "sub_type": "лк",
                 "professor": "Чижиков В.И.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://1drv.ms/f/s!AmQWAxV7ez6S0jiVHERg8-WFxu9R"
             }
         ],
         [
@@ -414,14 +414,14 @@
                 "sub_type": "лк",
                 "professor": "Сафронов А.А. ",
                 "room": "Д",
-                "link": "https://events.webinar.ru/21583080/4627834"
+                "link": "-"
             },
             {
                 "subject": "Мат. Анализ 16 н. ОО программирование",
                 "sub_type": "лк\nлк",
                 "professor": "Кесельман В.М.\nГрач Е.П.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us02web.zoom.us/j/82324019193"
             }
         ],
         [
@@ -535,7 +535,7 @@
                 "sub_type": "пр",
                 "professor": "Евсеева О.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us04web.zoom.us/j/3949322534?pwd=S1hnazBQSHNsbW9VZHcrb0hnTmpBUT09\n"
             }
         ],
         [
@@ -551,7 +551,7 @@
                 "sub_type": "пр",
                 "professor": "Евсеева О.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21586908/4723808"
             }
         ],
         [

@@ -61,7 +61,7 @@
                 "sub_type": "пр",
                 "professor": "Экономов Н.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21586908/4714600"
             }
         ],
         [
@@ -202,14 +202,14 @@
                 "sub_type": "пр",
                 "professor": "Пастухова С.Е.",
                 "room": "Д",
-                "link": "https://us04web.zoom.us/j/3592390087?pwd=iaQQQNGUNn0nmPeGSf_4yfcksJ1sdQ"
+                "link": "-"
             },
             {
                 "subject": "Лин. алгебра и АГ",
                 "sub_type": "пр",
                 "professor": "Пастухова С.Е.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us04web.zoom.us/j/78645648783"
             }
         ],
         [
@@ -234,14 +234,14 @@
                 "sub_type": "лк",
                 "professor": "Пронина Е.В.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/21583080/4625484"
+                "link": "-"
             },
             {
                 "subject": "Лин. алгебра и АГ",
                 "sub_type": "лк",
                 "professor": "Пронина Е.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21586908/4720052"
             }
         ],
         [
@@ -257,7 +257,7 @@
                 "sub_type": "лк",
                 "professor": "Чижиков В.И.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://1drv.ms/f/s!AmQWAxV7ez6S0jiVHERg8-WFxu9R"
             }
         ],
         [
@@ -266,14 +266,14 @@
                 "sub_type": "пр",
                 "professor": "Баранова И.А.",
                 "room": "Д",
-                "link": "https://yadi.sk/d/JUKbjHzF1M_qOQ"
+                "link": "-"
             },
             {
                 "subject": "Структуры и АОД",
                 "sub_type": "пр",
                 "professor": "Баранова И.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/Rh0WhZZDk76oLg"
             }
         ],
         [
@@ -307,7 +307,7 @@
                 "sub_type": "пр",
                 "professor": "Перова Ю.П.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -316,14 +316,14 @@
                 "sub_type": "лк",
                 "professor": "Грушицын А.С.",
                 "room": "Д",
-                "link": "https://yadi.sk/d/W5COX358IWGEuQ"
+                "link": "-"
             },
             {
                 "subject": "ОО программирование",
                 "sub_type": "лк",
                 "professor": "Путуридзе З.Ш.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -332,7 +332,7 @@
                 "sub_type": "пр",
                 "professor": "Гаврилова Е.А.\nЧугаева К.М.",
                 "room": "Д",
-                "link": "https://us02web.zoom.us/j/8788250726 (Гаврилова)"
+                "link": "-"
             },
             {
                 "subject": "Ин. язык",
@@ -364,7 +364,7 @@
                 "sub_type": "лк",
                 "professor": "Параскевопуло О.Р.",
                 "room": "Д",
-                "link": "https://us02web.zoom.us/j/81322112447?pwd=K3JWbkd6b1NjdmpxNkM0dnM2TXJ1UT09"
+                "link": "-"
             },
             {
                 "subject": "-",
@@ -398,14 +398,14 @@
                 "sub_type": "лк",
                 "professor": "Параскевопуло О.Р.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/21583080/4627292"
+                "link": "-"
             },
             {
                 "subject": "Мат. анализ",
                 "sub_type": "лк",
                 "professor": "Параскевопуло О.Р.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21583080/4719454"
             }
         ],
         [
@@ -421,7 +421,7 @@
                 "sub_type": "лк",
                 "professor": "Сафронов А.А. ",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21583080/4719510"
             }
         ],
         [
@@ -446,14 +446,14 @@
                 "sub_type": "пр",
                 "professor": "Гельмиярова В.Н.",
                 "room": "Д",
-                "link": "https://discord.gg/feXaRn"
+                "link": "-"
             },
             {
                 "subject": "Мат. анализ",
                 "sub_type": "пр",
                 "professor": "Гельмиярова В.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://discord.gg/5dCdF3"
             }
         ],
         [
@@ -469,7 +469,7 @@
                 "sub_type": "лк",
                 "professor": "Сафронов А.А. ",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us04web.zoom.us/j/2957493293?pwd=cFJrSmlSR1AwL2ZhSzdldXc2Nzdidz09"
             }
         ],
         [
@@ -503,7 +503,7 @@
                 "sub_type": "пр",
                 "professor": "Перова Ю.П.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -519,7 +519,7 @@
                 "sub_type": "пр",
                 "professor": "Перова Ю.П.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [

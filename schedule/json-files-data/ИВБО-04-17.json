@@ -77,7 +77,7 @@
                 "sub_type": "лк\nлк",
                 "professor": "Михайлов В.М.\nБелоусова И.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21591434/4714950"
             }
         ],
         [
@@ -127,7 +127,7 @@
                 "sub_type": "лк",
                 "professor": "Неменко М.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/20860024/4696006"
             }
         ],
         [
@@ -202,14 +202,14 @@
                 "sub_type": "лаб\nлаб",
                 "professor": "Асадова Ю.С.\nХарьковский С.Е.",
                 "room": "Д",
-                "link": "https://drive.google.com/open?id=1XQNOW4P5EThzYM66QZTFJaa0qAu6cJr9"
+                "link": "-"
             },
             {
                 "subject": "Цифровые сист. управления",
                 "sub_type": "лаб",
                 "professor": "Копытова Е.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://drive.google.com/open?id=1miqYv2tsx8et_0IiOIxivgGORSfK6s_2"
             }
         ],
         [
@@ -218,14 +218,14 @@
                 "sub_type": "лк\nлк\nлк",
                 "professor": "Асадова Ю.С.\nХарьковский С.Е.\nКопытова Е.В.",
                 "room": "Д",
-                "link": "https://drive.google.com/open?id=114dJBuPTVHR9diH-sggOMZvWlW9vNfkQ"
+                "link": "-"
             },
             {
                 "subject": "Промышленная информатика Промышленная информатика",
                 "sub_type": "пр\nпр",
                 "professor": "Асадова Ю.С.\nХарьковский С.Е.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://drive.google.com/open?id=1NeE7pre5puYa2Bi4Gz66HMlUomLYCXYp"
             }
         ],
         [
@@ -234,14 +234,14 @@
                 "sub_type": "лк",
                 "professor": "Мешков В.В.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/20860024/4586582"
+                "link": "-"
             },
             {
                 "subject": "Цифровые сист. управления",
                 "sub_type": "лк",
                 "professor": "Мешков В.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/20860024/4696012"
             }
         ],
         [
@@ -257,7 +257,7 @@
                 "sub_type": "пр",
                 "professor": "Мешков В.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://drive.google.com/open?id=1Tno92yj_20m0AyO5A_nXmEYtS3aAVSgj"
             }
         ],
         [
@@ -266,7 +266,7 @@
                 "sub_type": "лаб\nлк",
                 "professor": "Копытова Е.В.\nМешков В.В.",
                 "room": "Д",
-                "link": "https://drive.google.com/open?id=1YHawji7jNHKec4uyqFAvu9qaZA_IfZgu"
+                "link": "-"
             },
             {
                 "subject": "Цифровые сист. управления",

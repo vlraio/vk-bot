@@ -29,7 +29,7 @@
                 "sub_type": "лк",
                 "professor": "Воронцов А.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://1drv.ms/f/s!AmQWAxV7ez6S0jiVHERg8-WFxu9R"
             }
         ],
         [
@@ -45,7 +45,7 @@
                 "sub_type": "лк",
                 "professor": "Пронина Е.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21586908/4714514"
             }
         ],
         [
@@ -250,7 +250,7 @@
                 "sub_type": "пр",
                 "professor": "Иванова Е.А.",
                 "room": "Д",
-                "link": "https://us04web.zoom.us/j/77936606382?pwd=ZWxGa2wvc2g1SlVQNGJFa1ZpQ2RYUT09"
+                "link": "-"
             },
             {
                 "subject": "Ин. язык (фр.)",
@@ -300,14 +300,14 @@
                 "sub_type": "лк",
                 "professor": "Пименов А.В.",
                 "room": "Д",
-                "link": "https://drive.google.com/open?id=1EP9autz9AbFJDVgHmi7vVfvGYQ0kdzjl"
+                "link": "-"
             },
             {
                 "subject": "Мат. логика и ТА",
                 "sub_type": "пр",
                 "professor": "пм",
                 "room": "Д",
-                "link": "-"
+                "link": "https://drive.google.com/open?id=1ggfLhwfI11Lm46sQSTbVeKfoWCJpeyud"
             }
         ],
         [
@@ -316,7 +316,7 @@
                 "sub_type": "пр",
                 "professor": "Пименов А.В.",
                 "room": "Д",
-                "link": "https://drive.google.com/open?id=1_xuelnPwbEc9b2JrWZ5fNlvTPOULCOZa"
+                "link": "-"
             },
             {
                 "subject": "-",
@@ -332,14 +332,14 @@
                 "sub_type": "лк",
                 "professor": "Ильин Н.А.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/21583080/4626938"
+                "link": "-"
             },
             {
                 "subject": "ОО программирование",
                 "sub_type": "лк",
                 "professor": "Путуридзе З.Ш.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -348,14 +348,14 @@
                 "sub_type": "пр",
                 "professor": "Татаринцев А.В.",
                 "room": "Д",
-                "link": "https://us04web.zoom.us/j/3292778005"
+                "link": "-"
             },
             {
                 "subject": "Лин. алгебра и АГ",
                 "sub_type": "пр",
                 "professor": "Татаринцев А.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us04web.zoom.us/j/3292778005"
             }
         ],
         [
@@ -364,14 +364,14 @@
                 "sub_type": "пр",
                 "professor": "Татаринцев А.В.",
                 "room": "Д",
-                "link": "https://us04web.zoom.us/j/3292778005"
+                "link": "-"
             },
             {
                 "subject": "Мат. анализ",
                 "sub_type": "пр",
                 "professor": "Татаринцев А.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us04web.zoom.us/j/3292778005"
             }
         ],
         [
@@ -380,7 +380,7 @@
                 "sub_type": "лк",
                 "professor": "Пронина Е.В.",
                 "room": "Д",
-                "link": "https://us02web.zoom.us/j/87807023902?pwd=NTlqMzZtcHV2a1RzK0ExZ3dMeHBlUT09"
+                "link": "-"
             },
             {
                 "subject": "Мат. анализ 14 н. Мат. логика и ТА",
@@ -398,14 +398,14 @@
                 "sub_type": "пр",
                 "professor": "Чайкин А.В.",
                 "room": "Д",
-                "link": "https://us04web.zoom.us/j/7881333327?pwd=ZVFHaUZTOHNTdEtjUUpZT2JFUXZjUT09"
+                "link": "-"
             },
             {
                 "subject": "Физика",
                 "sub_type": "пр",
                 "professor": "Чайкин А.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us04web.zoom.us/j/7881333327?pwd=ZVFHaUZTOHNTdEtjUUpZT2JFUXZjUT09"
             }
         ],
         [
@@ -414,7 +414,7 @@
                 "sub_type": "пр",
                 "professor": "Дятлова Р.И.",
                 "room": "Д",
-                "link": "https://us04web.zoom.us/j/72288358828?pwd=MEx0UmJIdDRaeG5TR0lSK2JBQnc2Zz09"
+                "link": "-"
             },
             {
                 "subject": "Ин. язык",
@@ -430,14 +430,14 @@
                 "sub_type": "лк",
                 "professor": "Белова И.М.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/21583080/4627358"
+                "link": "-"
             },
             {
                 "subject": "Мат. анализ",
                 "sub_type": "лк",
                 "professor": "Белова И.М.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21583080/4719528"
             }
         ],
         [
@@ -503,7 +503,7 @@
                 "sub_type": "пр",
                 "professor": "Игнатьев Ф.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -519,7 +519,7 @@
                 "sub_type": "пр",
                 "professor": "Игнатьев Ф.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [

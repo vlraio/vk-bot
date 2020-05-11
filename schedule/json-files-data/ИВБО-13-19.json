@@ -111,7 +111,7 @@
                 "sub_type": "пр",
                 "professor": "Гусарова М.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us04web.zoom.us/j/2186680017?pwd=iagSRdKTua9Nvsfp6AnZnUYPTVCR6A"
             }
         ],
         [
@@ -127,7 +127,7 @@
                 "sub_type": "лк",
                 "professor": "Гущина Е.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21586908/4714690"
             }
         ],
         [
@@ -209,7 +209,7 @@
                 "sub_type": "лк",
                 "professor": "Воронков С.О.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://drive.google.com/drive/u/0/folders/1G8szERqbdstrV6rt1cyaFP2zRxqj2hsI"
             }
         ],
         [
@@ -218,14 +218,14 @@
                 "sub_type": "пр",
                 "professor": "Немировская-Дутчак О.Э.",
                 "room": "Д",
-                "link": "https://discordapp.com/invite/X6f3T2M"
+                "link": "-"
             },
             {
                 "subject": "Мат. анализ",
                 "sub_type": "пр",
                 "professor": "Немировская-Дутчак О.Э.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://discordapp.com/invite/X6f3T2M"
             }
         ],
         [
@@ -234,14 +234,14 @@
                 "sub_type": "пр",
                 "professor": "Немировская-Дутчак О.Э.",
                 "room": "Д",
-                "link": "https://discordapp.com/invite/X6f3T2M"
+                "link": "-"
             },
             {
                 "subject": "Лин. алгебра и АГ",
                 "sub_type": "пр",
                 "professor": "Немировская-Дутчак О.Э.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://discordapp.com/invite/X6f3T2M"
             }
         ],
         [
@@ -250,7 +250,7 @@
                 "sub_type": "лк",
                 "professor": "Епифанов Ю.Н.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/21583080/4625844"
+                "link": "-"
             },
             {
                 "subject": "Физика",
@@ -300,14 +300,14 @@
                 "sub_type": "пр",
                 "professor": "Росляков В.А.",
                 "room": "Д",
-                "link": "https://us04web.zoom.us/j/7955927598?pwd=TlptM1FYenl4VjVYczJuUTh0N2ZGUT09"
+                "link": "-"
             },
             {
                 "subject": "Физика",
                 "sub_type": "пр",
                 "professor": "Росляков В.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us04web.zoom.us/j/7955927598?pwd=TlptM1FYenl4VjVYczJuUTh0N2ZGUT09"
             }
         ],
         [
@@ -316,14 +316,14 @@
                 "sub_type": "лк",
                 "professor": "Кузнецова Е.Ю.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/21583080/4626608"
+                "link": "-"
             },
             {
                 "subject": "Мат. анализ",
                 "sub_type": "лк",
                 "professor": "Кузнецова Е.Ю.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21583080/4719024"
             }
         ],
         [
@@ -339,23 +339,23 @@
                 "sub_type": "лк",
                 "professor": "Антик М.И.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/Et44AddgXcsq_A"
             }
         ],
         [
+            {
+                "subject": "Теория автоматов",
+                "sub_type": "пр",
+                "professor": "Антик М.И.",
+                "room": "Д",
+                "link": "-"
+            },
             {
                 "subject": "Теория автоматов",
                 "sub_type": "пр",
                 "professor": "Антик М.И.",
                 "room": "Д",
                 "link": "https://yadi.sk/d/Et44AddgXcsq_A"
-            },
-            {
-                "subject": "Теория автоматов",
-                "sub_type": "пр",
-                "professor": "Антик М.И.",
-                "room": "Д",
-                "link": "-"
             }
         ],
         [
@@ -364,14 +364,14 @@
                 "sub_type": "лаб",
                 "professor": "Железняк Л.М.",
                 "room": "Д",
-                "link": "https://drive.google.com/open?id=1YiKU4JAMqTNeP66AF1oZi_k1Ut576TTC"
+                "link": "-"
             },
             {
                 "subject": "Архитектура ВМиС",
                 "sub_type": "лаб",
                 "professor": "Железняк Л.М.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://drive.google.com/open?id=1YiKU4JAMqTNeP66AF1oZi_k1Ut576TTC"
             }
         ],
         [
@@ -387,7 +387,7 @@
                 "sub_type": "лаб\nлк",
                 "professor": "Железняк Л.М.\nКузнецова Е.Ю.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us02web.zoom.us/j/84736900518?pwd=ekdpU2tvUXVvbU5nbDlvNUtFN0tVUT09"
             }
         ]
     ],

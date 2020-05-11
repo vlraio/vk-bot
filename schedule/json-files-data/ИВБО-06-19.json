@@ -29,7 +29,7 @@
                 "sub_type": "лк",
                 "professor": "Воронцов А.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://1drv.ms/f/s!AmQWAxV7ez6S0jiVHERg8-WFxu9R"
             }
         ],
         [
@@ -45,7 +45,7 @@
                 "sub_type": "лк",
                 "professor": "Пронина Е.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21586908/4714514"
             }
         ],
         [
@@ -300,14 +300,14 @@
                 "sub_type": "пр",
                 "professor": "Гущина Е.Н.",
                 "room": "Д",
-                "link": "https://join.skype.com/hVSLRx8aF0Ik"
+                "link": "-"
             },
             {
                 "subject": "Мат. анализ",
                 "sub_type": "пр",
                 "professor": "Гущина Е.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://join.skype.com/bSyOfztdyNCd"
             }
         ],
         [
@@ -316,14 +316,14 @@
                 "sub_type": "пр",
                 "professor": "Гущина Е.Н.",
                 "room": "Д",
-                "link": "https://join.skype.com/hVSLRx8aF0Ik"
+                "link": "-"
             },
             {
                 "subject": "Лин. алгебра и АГ",
                 "sub_type": "пр",
                 "professor": "Гущина Е.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://join.skype.com/hVSLRx8aF0Ik"
             }
         ],
         [
@@ -332,14 +332,14 @@
                 "sub_type": "лк",
                 "professor": "Ильин Н.А.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/21583080/4626938"
+                "link": "-"
             },
             {
                 "subject": "ОО программирование",
                 "sub_type": "лк",
                 "professor": "Путуридзе З.Ш.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -359,19 +359,19 @@
             }
         ],
         [
+            {
+                "subject": "Физика",
+                "sub_type": "пр",
+                "professor": "Рябенков В.И.",
+                "room": "Д",
+                "link": "-"
+            },
             {
                 "subject": "Физика",
                 "sub_type": "пр",
                 "professor": "Рябенков В.И.",
                 "room": "Д",
                 "link": "https://join.skype.com/ou2NMOd7Wo2F"
-            },
-            {
-                "subject": "Физика",
-                "sub_type": "пр",
-                "professor": "Рябенков В.И.",
-                "room": "Д",
-                "link": "-"
             }
         ],
         [
@@ -380,14 +380,14 @@
                 "sub_type": "лк",
                 "professor": "Пронина Е.В.",
                 "room": "Д",
-                "link": "https://us02web.zoom.us/j/87807023902?pwd=NTlqMzZtcHV2a1RzK0ExZ3dMeHBlUT09"
+                "link": "-"
             },
             {
                 "subject": "Мат. Анализ 14 н. Физика",
                 "sub_type": "лк\nпр",
                 "professor": "Белова И.М.\nРябенков В.И.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://join.skype.com/ou2NMOd7Wo2F"
             }
         ]
     ],
@@ -430,14 +430,14 @@
                 "sub_type": "лк",
                 "professor": "Белова И.М.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/21583080/4627358"
+                "link": "-"
             },
             {
                 "subject": "Мат. анализ",
                 "sub_type": "лк",
                 "professor": "Белова И.М.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21583080/4719528"
             }
         ],
         [
@@ -519,7 +519,7 @@
                 "sub_type": "пр",
                 "professor": "пм",
                 "room": "Д",
-                "link": "-"
+                "link": "https://drive.google.com/open?id=1yTM1kp-NxNAPJQXEygMhV7kCfqtPIoFH"
             }
         ],
         [
@@ -535,7 +535,7 @@
                 "sub_type": "пр",
                 "professor": "Свищёв А.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -551,7 +551,7 @@
                 "sub_type": "пр",
                 "professor": "Свищёв А.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [

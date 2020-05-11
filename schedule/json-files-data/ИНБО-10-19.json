@@ -13,7 +13,7 @@
                 "sub_type": "пр",
                 "professor": "Сафронов А.А. ",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us04web.zoom.us/j/2957493293?pwd=cFJrSmlSR1AwL2ZhSzdldXc2Nzdidz09"
             }
         ],
         [
@@ -29,7 +29,7 @@
                 "sub_type": "пр",
                 "professor": "Новикова А.И.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us04web.zoom.us/j/76600184261?pwd=NlJPbS9HUnRaTktFN2Y3MDVYTTZhZz09"
             }
         ],
         [
@@ -45,7 +45,7 @@
                 "sub_type": "пр",
                 "professor": "Пономарев А.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -61,7 +61,7 @@
                 "sub_type": "пр",
                 "professor": "Пономарев А.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -202,7 +202,7 @@
                 "sub_type": "пр",
                 "professor": "Рыбакова Е.Е.\nЧугаева К.М.",
                 "room": "Д",
-                "link": "https://us04web.zoom.us/j/77383541198?pwd=b3FaZm82Z2VCaEtqalhjRzAydEp2dz09 (Рыбакова"
+                "link": "-"
             },
             {
                 "subject": "Ин. язык",
@@ -218,14 +218,14 @@
                 "sub_type": "пр",
                 "professor": "Кесельман В.М.",
                 "room": "Д",
-                "link": "https://us02web.zoom.us/j/82366591704"
+                "link": "-"
             },
             {
                 "subject": "Мат. анализ",
                 "sub_type": "пр",
                 "professor": "Кесельман В.М.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us02web.zoom.us/j/84096012890"
             }
         ],
         [
@@ -234,14 +234,14 @@
                 "sub_type": "лк",
                 "professor": "Пронина Е.В.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/21583080/4625484"
+                "link": "-"
             },
             {
                 "subject": "Лин. алгебра и АГ",
                 "sub_type": "лк",
                 "professor": "Пронина Е.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21586908/4720052"
             }
         ],
         [
@@ -257,7 +257,7 @@
                 "sub_type": "лк",
                 "professor": "Чижиков В.И.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://1drv.ms/f/s!AmQWAxV7ez6S0jiVHERg8-WFxu9R"
             }
         ],
         [
@@ -300,7 +300,7 @@
                 "sub_type": "пр",
                 "professor": "Ослякова И.В.",
                 "room": "Д",
-                "link": "https://us02web.zoom.us/j/89688494151"
+                "link": "-"
             },
             {
                 "subject": "Физика",
@@ -316,14 +316,14 @@
                 "sub_type": "лк",
                 "professor": "Грушицын А.С.",
                 "room": "Д",
-                "link": "https://yadi.sk/d/W5COX358IWGEuQ"
+                "link": "-"
             },
             {
                 "subject": "ОО программирование",
                 "sub_type": "лк",
                 "professor": "Путуридзе З.Ш.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -332,14 +332,14 @@
                 "sub_type": "пр",
                 "professor": "Грушицын А.С.",
                 "room": "Д",
-                "link": "https://yadi.sk/d/U0kGQnpNXBq2fA"
+                "link": "-"
             },
             {
                 "subject": "Структуры и АОД",
                 "sub_type": "пр",
                 "professor": "Грушицын А.С.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/zETIbX5R-R1sJw"
             }
         ],
         [
@@ -364,7 +364,7 @@
                 "sub_type": "пр\nлк",
                 "professor": "\nПараскевопуло О.Р.",
                 "room": "Д",
-                "link": "https://us02web.zoom.us/j/81322112447?pwd=K3JWbkd6b1NjdmpxNkM0dnM2TXJ1UT09"
+                "link": "-"
             },
             {
                 "subject": "Ин. язык",
@@ -398,14 +398,14 @@
                 "sub_type": "лк",
                 "professor": "Параскевопуло О.Р.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/21583080/4627292"
+                "link": "-"
             },
             {
                 "subject": "Мат. анализ",
                 "sub_type": "лк",
                 "professor": "Параскевопуло О.Р.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21583080/4719454"
             }
         ],
         [
@@ -414,14 +414,14 @@
                 "sub_type": "пр",
                 "professor": "Ослякова И.В.",
                 "room": "Д",
-                "link": "https://us02web.zoom.us/j/84841838591"
+                "link": "-"
             },
             {
                 "subject": " Физика",
                 "sub_type": "лк",
                 "professor": "Сафронов А.А. ",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21583080/4719510"
             }
         ],
         [
@@ -453,7 +453,7 @@
                 "sub_type": "пр",
                 "professor": "Новикова А.И.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us04web.zoom.us/j/76600184261?pwd=NlJPbS9HUnRaTktFN2Y3MDVYTTZhZz09"
             }
         ],
         [
@@ -469,7 +469,7 @@
                 "sub_type": "лк\nпр",
                 "professor": "Сафронов А.А.\nНовикова А.И. ",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us04web.zoom.us/j/2957493293?pwd=cFJrSmlSR1AwL2ZhSzdldXc2Nzdidz09"
             }
         ],
         [

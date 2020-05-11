@@ -29,7 +29,7 @@
                 "sub_type": "лк",
                 "professor": "Воронцов А.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://1drv.ms/f/s!AmQWAxV7ez6S0jiVHERg8-WFxu9R"
             }
         ],
         [
@@ -45,7 +45,7 @@
                 "sub_type": "лк",
                 "professor": "Пронина Е.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21586908/4714514"
             }
         ],
         [
@@ -61,7 +61,7 @@
                 "sub_type": "пр",
                 "professor": "Кузнецова Е.Ю.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us02web.zoom.us/j/82310981212?pwd=Yktac1pKK2ZHQStydElMWU5RNUx5dz09"
             }
         ],
         [
@@ -77,7 +77,7 @@
                 "sub_type": "пр",
                 "professor": "Кузнецова Е.Ю.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us02web.zoom.us/j/82310981212?pwd=Yktac1pKK2ZHQStydElMWU5RNUx5dz09"
             }
         ],
         [
@@ -300,14 +300,14 @@
                 "sub_type": "лк",
                 "professor": "Пименов А.В.",
                 "room": "Д",
-                "link": "https://drive.google.com/open?id=1EP9autz9AbFJDVgHmi7vVfvGYQ0kdzjl"
+                "link": "-"
             },
             {
                 "subject": "Технология ППИ",
                 "sub_type": "пр",
                 "professor": "Пименов А.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://drive.google.com/open?id=15sklHntP1Sfwg_tOdknpBkPVg-FSKznk"
             }
         ],
         [
@@ -316,7 +316,7 @@
                 "sub_type": "пр",
                 "professor": "Удалова Н.В.",
                 "room": "Д",
-                "link": "https://us02web.zoom.us/j/87567190096?pwd=ekFtN24zMVJnQ1czL2xiRzljVUlTZz09"
+                "link": "-"
             },
             {
                 "subject": "Ин. язык (2 п/г)",
@@ -332,14 +332,14 @@
                 "sub_type": "лк",
                 "professor": "Ильин Н.А.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/21583080/4626938"
+                "link": "-"
             },
             {
                 "subject": "ОО программирование",
                 "sub_type": "лк",
                 "professor": "Путуридзе З.Ш.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -364,14 +364,14 @@
                 "sub_type": "пр",
                 "professor": "Кузнецова Е.Ю.",
                 "room": "Д",
-                "link": "https://us02web.zoom.us/j/88227445828?pwd=UGtkZnM0OTYrQmlNbWgrd2lIQ1dwdz09"
+                "link": "-"
             },
             {
                 "subject": "ОО программирование 10 н. Технология ППИ",
                 "sub_type": "пр\nпр",
                 "professor": "Перова Ю.П.\nПименов А.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -380,14 +380,14 @@
                 "sub_type": "лк",
                 "professor": "Пронина Е.В.",
                 "room": "Д",
-                "link": "https://us02web.zoom.us/j/87807023902?pwd=NTlqMzZtcHV2a1RzK0ExZ3dMeHBlUT09"
+                "link": "-"
             },
             {
                 "subject": "Мат. анализ 14,16 н. ОО программирование",
                 "sub_type": "лк\nпр",
                 "professor": "Белова И.М.\nПерова Ю.П.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ]
     ],
@@ -398,14 +398,14 @@
                 "sub_type": "пр",
                 "professor": "Шаталов Ф.А.",
                 "room": "Д",
-                "link": "https://us04web.zoom.us/j/9998145210"
+                "link": "-"
             },
             {
                 "subject": "Физика",
                 "sub_type": "пр",
                 "professor": "Шаталов Ф.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us04web.zoom.us/j/9998145210"
             }
         ],
         [
@@ -414,7 +414,7 @@
                 "sub_type": "пр\nпр",
                 "professor": "Гаврилова Е.А.\nГриценко С.А./Ослякова И.В.",
                 "room": "Д",
-                "link": "https://us02web.zoom.us/j/84841838591 (Ослякова), https://us02web.zoom.us/j/8788250726 (Гаврилова)"
+                "link": "-"
             },
             {
                 "subject": "Ин. язык (1 п/г) Ин.язык (нем.,фр.)",
@@ -430,14 +430,14 @@
                 "sub_type": "лк",
                 "professor": "Белова И.М.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/21583080/4627358"
+                "link": "-"
             },
             {
                 "subject": "Мат. анализ",
                 "sub_type": "лк",
                 "professor": "Белова И.М.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21583080/4719528"
             }
         ],
         [
@@ -515,9 +515,9 @@
                 "link": "-"
             },
             {
-                "subject": "Ин. язык (2 п/г) 16 н. Мат. логика и ТА",
-                "sub_type": "пр",
-                "professor": "Удалова Н.В.",
+                "subject": "Ин. язык (2 п/г)  16 н. Мат. логика и ТА",
+                "sub_type": "пр\n пр",
+                "professor": "Удалова Н.В.\n пм",
                 "room": "Д",
                 "link": "-"
             }
@@ -535,7 +535,7 @@
                 "sub_type": "пр",
                 "professor": "Перова Ю.П.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -551,7 +551,7 @@
                 "sub_type": "пр",
                 "professor": "Перова Ю.П.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [

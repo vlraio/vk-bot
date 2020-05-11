@@ -13,7 +13,7 @@
                 "sub_type": "пр\nлк",
                 "professor": "Синицын А.В.\nЧехарин Е.Е.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://cloud.mirea.ru/index.php/s/EKHYJ6Ybna7cqLX"
             }
         ],
         [
@@ -29,7 +29,7 @@
                 "sub_type": "лаб\nпр\nпр",
                 "professor": "Рачков А.В.\nЧехарин Е.Е.\nСиницын А.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://cloud.mirea.ru/index.php/s/Nbd5Z2ZkHw2eQzp"
             }
         ],
         [
@@ -45,7 +45,7 @@
                 "sub_type": "пр",
                 "professor": "Синицын А.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://cloud.mirea.ru/index.php/s/EKHYJ6Ybna7cqLX"
             }
         ],
         [
@@ -111,7 +111,7 @@
                 "sub_type": "лаб",
                 "professor": "Лобанов А.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://cloud.mirea.ru/index.php/s/CkyyiPzb5cawyfN"
             }
         ],
         [
@@ -127,7 +127,7 @@
                 "sub_type": "пр",
                 "professor": "Чехарин Е.Е.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://cloud.mirea.ru/index.php/s/ffwRwX4YxKXAAsb"
             }
         ],
         [
@@ -143,7 +143,7 @@
                 "sub_type": "лаб",
                 "professor": "Синицын А.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://cloud.mirea.ru/index.php/s/dkJtaBPYwokTwSo"
             }
         ],
         [
@@ -159,7 +159,7 @@
                 "sub_type": "лк",
                 "professor": "Болбаков Р.Г.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/20860024/4696072"
             }
         ],
         [
@@ -175,7 +175,7 @@
                 "sub_type": "лк",
                 "professor": "Алпатов А.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/20860024/4696086"
             }
         ],
         [
@@ -316,7 +316,7 @@
                 "sub_type": "пр",
                 "professor": "Баранова И.А.",
                 "room": "Д",
-                "link": "https://drive.google.com/open?id=1XFc-O6KuwKx0U1FCYaUXU1k3Mc-gkjzN"
+                "link": "-"
             },
             {
                 "subject": "Теория систем и СА",
@@ -348,14 +348,14 @@
                 "sub_type": "лк",
                 "professor": "Лобанов А.А.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/20860024/4587200"
+                "link": "-"
             },
             {
                 "subject": "Проектирование ИС",
                 "sub_type": "лк",
                 "professor": "Лобанов А.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/20860024/4696098"
             }
         ],
         [
@@ -364,14 +364,14 @@
                 "sub_type": "лк",
                 "professor": "Сорокин А.Б.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/20860024/4587352"
+                "link": "-"
             },
             {
                 "subject": "Теория систем и СА",
                 "sub_type": "лк",
                 "professor": "Сорокин А.Б.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/20860024/4696108"
             }
         ],
         [
@@ -421,7 +421,7 @@
                 "sub_type": "лк",
                 "professor": "Райков А.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/20860024/4696112"
             }
         ],
         [
@@ -446,14 +446,14 @@
                 "sub_type": "пр",
                 "professor": "Алпатов А.Н.",
                 "room": "Д",
-                "link": "https://cloud.mirea.ru/index.php/s/4E9XiHcjTKXbnrk"
+                "link": "-"
             },
             {
                 "subject": "Системное ПО",
                 "sub_type": "пр",
                 "professor": "Алпатов А.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://cloud.mirea.ru/index.php/s/z4YSxoPkmRmJDQn"
             }
         ],
         [
@@ -462,7 +462,7 @@
                 "sub_type": "пр",
                 "professor": "Лобанов А.А.",
                 "room": "Д",
-                "link": "https://cloud.mirea.ru/index.php/s/acsdoN63fgJgHGd"
+                "link": "-"
             },
             {
                 "subject": "Системное ПО",

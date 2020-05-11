@@ -111,7 +111,7 @@
                 "sub_type": "лк",
                 "professor": "Гущина Е.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21583080/4717964"
             }
         ],
         [
@@ -127,7 +127,7 @@
                 "sub_type": "лк",
                 "professor": "Чижиков В.И.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://1drv.ms/f/s!AmQWAxV7ez6S0jiVHERg8-WFxu9R"
             }
         ],
         [
@@ -143,7 +143,7 @@
                 "sub_type": "пр",
                 "professor": "Татаринцев А.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us04web.zoom.us/j/3292778005"
             }
         ],
         [
@@ -159,7 +159,7 @@
                 "sub_type": "пр",
                 "professor": "Татаринцев А.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us04web.zoom.us/j/3292778005"
             }
         ],
         [
@@ -300,14 +300,14 @@
                 "sub_type": "лк",
                 "professor": "Кузнецова Е.Ю.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/21583080/4626578"
+                "link": "-"
             },
             {
                 "subject": "Мат. анализ",
                 "sub_type": "лк",
                 "professor": "Кузнецова Е.Ю.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21583080/4718984"
             }
         ],
         [
@@ -398,14 +398,14 @@
                 "sub_type": "лк",
                 "professor": "Путуридзе З.Ш.",
                 "room": "Д",
-                "link": "Автоматизированная система обучения \"Аврора\""
+                "link": "-"
             },
             {
                 "subject": "Физика",
                 "sub_type": "лк",
                 "professor": "Коробкин Ю.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21586908/4722128"
             }
         ],
         [
@@ -414,14 +414,14 @@
                 "sub_type": "пр",
                 "professor": "Жданова Е.В",
                 "room": "Д",
-                "link": "https://us04web.zoom.us/j/2740789877?pwd=Mk9nU1RXWjFhc2F6OFh1OFlOOW96UT09  конференция: 714-1015-7341"
+                "link": "-"
             },
             {
                 "subject": "Физика",
                 "sub_type": "пр",
                 "professor": "Жданова Е.В",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us04web.zoom.us/j/2740789877?pwd=Mk9nU1RXWjFhc2F6OFh1OFlOOW96UT09; идентификатор 714-1015-7341"
             }
         ],
         [
@@ -446,7 +446,7 @@
                 "sub_type": "пр",
                 "professor": "Иванова Е.А.",
                 "room": "Д",
-                "link": "https://us04web.zoom.us/j/74290064441?pwd=dEhiRXFvM252SU1XYW5oTHZEdVVQZz09"
+                "link": "-"
             },
             {
                 "subject": "Ин. язык (фр.)",
@@ -519,7 +519,7 @@
                 "sub_type": "лк",
                 "professor": "Гущина Е.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://us02web.zoom.us/j/9619002048"
             }
         ],
         [
@@ -535,7 +535,7 @@
                 "sub_type": "лк",
                 "professor": "Коробкин Ю.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21583080/4720238"
             }
         ],
         [
@@ -567,7 +567,7 @@
                 "sub_type": "пр",
                 "professor": "Свищёв А.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ],
         [
@@ -583,7 +583,7 @@
                 "sub_type": "пр",
                 "professor": "Свищёв А.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "Автоматизированная система обучения \"Аврора\""
             }
         ]
     ]

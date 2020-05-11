@@ -13,7 +13,7 @@
                 "sub_type": "лк",
                 "professor": "Баранюк В.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/20860024/4695228"
             }
         ],
         [
@@ -29,7 +29,7 @@
                 "sub_type": "лк",
                 "professor": "Жемчужникова Т.Н.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://drive.google.com/open?id=1WLTNmrNG0PB4VcrqTFIYO4ziVxIZPBYi"
             }
         ],
         [
@@ -61,7 +61,7 @@
                 "sub_type": "пр",
                 "professor": "Дудин В.И.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://discord.com/invite/xU5Uwv"
             }
         ],
         [
@@ -93,7 +93,7 @@
                 "sub_type": "лк",
                 "professor": "Баранюк В.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/OvLWKNvIXSplRw"
             }
         ]
     ],
@@ -111,7 +111,7 @@
                 "sub_type": "лк",
                 "professor": "Берков Н.А.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/21583080/4718050"
             }
         ],
         [
@@ -127,7 +127,7 @@
                 "sub_type": "пр",
                 "professor": "Дудин В.И",
                 "room": "Д",
-                "link": "-"
+                "link": "https://discord.com/invite/xU5Uwv"
             }
         ],
         [
@@ -159,7 +159,7 @@
                 "sub_type": "пр",
                 "professor": "Гусев К.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://online-edu.mirea.ru/course/view.php?id=969"
             }
         ],
         [
@@ -307,7 +307,7 @@
                 "sub_type": "лк",
                 "professor": "Дзержинский Р.И.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://1drv.ms/f/s!AmQWAxV7ez6S0jiVHERg8-WFxu9R"
             }
         ],
         [
@@ -316,7 +316,7 @@
                 "sub_type": "пр",
                 "professor": "Рыбакова Е.Е.\nМанджиев А.А.",
                 "room": "Д",
-                "link": "https://us04web.zoom.us/j/72762597827?pwd=V3lDNTk3R2VPM0l1UFl1L2Y5dWw3QT09 (Рыбакова), https://vk.com/videos-193980457 (Манджиев)"
+                "link": "-"
             },
             {
                 "subject": "Ин. язык",
@@ -332,14 +332,14 @@
                 "sub_type": "пр",
                 "professor": "Антик М.И.",
                 "room": "Д",
-                "link": "https://yadi.sk/d/Et44AddgXcsq_A"
+                "link": "-"
             },
             {
                 "subject": "Системы ОиХД",
                 "sub_type": "пр",
                 "professor": "Володина А.М.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://drive.google.com/open?id=1GXxVTStXyNjOC5eyctHgc3ye9v6Un5qC"
             }
         ],
         [
@@ -348,14 +348,14 @@
                 "sub_type": "лк",
                 "professor": "Богомольная Г.В.",
                 "room": "Д",
-                "link": "https://events.webinar.ru/20860024/4571158"
+                "link": "-"
             },
             {
                 "subject": "Системы ОиХД",
                 "sub_type": "лк",
                 "professor": "Богомольная Г.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://events.webinar.ru/20860024/4695252"
             }
         ],
         [
@@ -371,7 +371,7 @@
                 "sub_type": "пр",
                 "professor": "Ледовская Е.В.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://drive.google.com/open?id=1ggfLhwfI11Lm46sQSTbVeKfoWCJpeyud"
             }
         ],
         [
@@ -437,7 +437,7 @@
                 "sub_type": "лк",
                 "professor": "Антик М.И.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/O1NM9RCTczt_Rw"
             }
         ],
         [
@@ -457,19 +457,19 @@
             }
         ],
         [
+            {
+                "subject": "Теория автоматов",
+                "sub_type": "лаб",
+                "professor": "Антик М.И.",
+                "room": "Д",
+                "link": "-"
+            },
             {
                 "subject": "Теория автоматов",
                 "sub_type": "лаб",
                 "professor": "Антик М.И.",
                 "room": "Д",
                 "link": "https://yadi.sk/d/O1NM9RCTczt_Rw"
-            },
-            {
-                "subject": "Теория автоматов",
-                "sub_type": "лаб",
-                "professor": "Антик М.И.",
-                "room": "Д",
-                "link": "-"
             }
         ],
         [
@@ -485,7 +485,7 @@
                 "sub_type": "лаб",
                 "professor": "Антик М.И.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/O1NM9RCTczt_Rw"
             }
         ]
     ],
@@ -519,7 +519,7 @@
                 "sub_type": "лк",
                 "professor": "Антик М.И.",
                 "room": "Д",
-                "link": "-"
+                "link": "https://yadi.sk/d/O1NM9RCTczt_Rw"
             }
         ],
         [

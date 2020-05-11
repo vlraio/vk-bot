@@ -22,6 +22,9 @@ json_schedule_path = "schedule/json-files-data/"
 json_weather_path = "weather/json-files-data/"
 icons_path = "weather/icons/"
 
+#  Путь к фейковой базе данных
+fake_db_path = "updates/fake_db/"
+
 #  Дата начала обучения в семестре
 start_study_date = "2020-02-10"
 
