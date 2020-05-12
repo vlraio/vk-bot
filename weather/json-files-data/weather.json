@@ -5,39 +5,36 @@
     },
     "weather": [
         {
-            "id": 501,
-            "main": "Rain",
-            "description": "дождь",
-            "icon": "10d"
+            "id": 804,
+            "main": "Clouds",
+            "description": "пасмурно",
+            "icon": "04d"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": 18.01,
-        "feels_like": 13.18,
+        "temp": 20.5,
+        "feels_like": 15.71,
         "temp_min": 16.11,
-        "temp_max": 19,
-        "pressure": 1006,
-        "humidity": 29
+        "temp_max": 23,
+        "pressure": 997,
+        "humidity": 43
     },
     "visibility": 10000,
     "wind": {
-        "speed": 4,
-        "deg": 290
-    },
-    "rain": {
-        "1h": 3.05
+        "speed": 6,
+        "deg": 180
     },
     "clouds": {
-        "all": 0
+        "all": 100
     },
-    "dt": 1589193331,
+    "dt": 1589268435,
     "sys": {
         "type": 1,
         "id": 9029,
         "country": "RU",
-        "sunrise": 1589160300,
-        "sunset": 1589218011
+        "sunrise": 1589246585,
+        "sunset": 1589304526
     },
     "timezone": 10800,
     "id": 524901,

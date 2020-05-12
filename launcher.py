@@ -19,14 +19,16 @@ class Launcher:
         self.json_kb = JSON_CLEAR
         self.attachments = []
 
-    def send_message(self, user_id, resp):
+    def send_message(self, user_id, response):
         img = None
         try:
-            message, img = resp
+            message, img = response
         except ValueError:
-            message = resp
+            message = response
 
         if img is not None:
+            mess_list = message.split("@")
+
             #  Отправка полученного изображения на сервер вк
             server = self.vk.method("photos.getMessagesUploadServer")
             post_req = rq.post(server["upload_url"], files={"photo": open(img, "rb")}).json()
@@ -37,9 +39,20 @@ class Launcher:
 
             self.attachments.append("photo{}_{}".format(save["owner_id"], save["id"]))
 
+            self.vk_api.messages.send(
+                user_id=user_id,
+                attachment=','.join(self.attachments),
+                random_id=get_random_id(),
+                keyboard=open(self.json_kb, "r", encoding="UTF-8").read(),
+                message=mess_list[0])
+
+            if len(mess_list) == 1:
+                return None
+
+            message = mess_list[1]
+
         self.vk_api.messages.send(
             user_id=user_id,
-            attachment=','.join(self.attachments),
             random_id=get_random_id(),
             keyboard=open(self.json_kb, "r", encoding="UTF-8").read(),
             message=message)
