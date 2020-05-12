@@ -147,15 +147,14 @@ class Weather:
 
         for d in day:
             if d == "":
-                d = 15
-            response += "/ {}°C /".format(d)
+                response += "/ ---- /"
+            else:
+                response += "/ {}°C /".format(d)
         response += " ДЕНЬ\n"
         for n in night:
             if n == "":
                 response += "/ ---- /"
             else:
-                if n > 10:
-                    n = 4
                 response += "/ {}°C /".format(n)
         response += " НОЧЬ\n"
 
@@ -163,7 +162,7 @@ class Weather:
         c = 0
         for i in img:
             if i == "":
-                i = "{}10d.png".format(icons_path)
+                i = "{}00d.png".format(icons_path)
             img2 = Image.open(i)
             new_image.paste(img2, (c, 0))
             c += 50

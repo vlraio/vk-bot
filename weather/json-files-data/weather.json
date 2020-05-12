@@ -5,30 +5,30 @@
     },
     "weather": [
         {
-            "id": 804,
-            "main": "Clouds",
-            "description": "пасмурно",
-            "icon": "04d"
+            "id": 800,
+            "main": "Clear",
+            "description": "ясно",
+            "icon": "01d"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": 20.5,
-        "feels_like": 15.71,
-        "temp_min": 16.11,
-        "temp_max": 23,
-        "pressure": 997,
+        "temp": 23.39,
+        "feels_like": 18.56,
+        "temp_min": 23,
+        "temp_max": 23.89,
+        "pressure": 996,
         "humidity": 43
     },
     "visibility": 10000,
     "wind": {
-        "speed": 6,
-        "deg": 180
+        "speed": 7,
+        "deg": 170
     },
     "clouds": {
-        "all": 100
+        "all": 0
     },
-    "dt": 1589268435,
+    "dt": 1589270656,
     "sys": {
         "type": 1,
         "id": 9029,
